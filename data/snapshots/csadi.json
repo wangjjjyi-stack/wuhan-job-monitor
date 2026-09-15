@@ -1,0 +1,20 @@
+{
+  "checked_at": "2026-09-16T00:32:02+08:00",
+  "final_url": "https://www.csadi.com.cn/",
+  "title": "中南建筑设计院股份有限公司",
+  "hash": "9ec67da3ea30a96450fa5eae7187147dba15b40c9a30a68e7e52cadd4cf3970a",
+  "candidate_urls": [
+    "https://www.csadi.com.cn/xwzx/gsxw/202504/t20250402_148940.html",
+    "https://www.csadi.com.cn/fwly/xmgl/",
+    "https://www.csadi.com.cn/xwzx/gsxw/202503/t20250310_147292.html",
+    "https://www.csadi.com.cn/fwly/csgh/",
+    "https://www.csadi.com.cn/xmzs/"
+  ],
+  "first_seen_by_url": {
+    "https://www.csadi.com.cn/xwzx/gsxw/202504/t20250402_148940.html": "2026-09-16",
+    "https://www.csadi.com.cn/fwly/xmgl/": "2026-09-16",
+    "https://www.csadi.com.cn/xwzx/gsxw/202503/t20250310_147292.html": "2026-09-16",
+    "https://www.csadi.com.cn/fwly/csgh/": "2026-09-16",
+    "https://www.csadi.com.cn/xmzs/": "2026-09-16"
+  }
+}
