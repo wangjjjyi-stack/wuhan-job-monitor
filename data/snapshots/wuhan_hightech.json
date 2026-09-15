@@ -1,0 +1,20 @@
+{
+  "checked_at": "2026-09-15T13:50:40+08:00",
+  "final_url": "https://www.whgk.com/resources_join.html",
+  "title": "招贤纳士 武汉高科国有控股集团有限公司 武汉高科国有控股集团有限公司",
+  "hash": "113d8572115c03ebcb6ae22792ee3293c0be54dffabbf29c1fa336f7de8d1aa1",
+  "candidate_urls": [
+    "https://www.whgk.com/business.html",
+    "https://www.whgk.com/business_investment.html",
+    "https://www.whgk.com/business_park.html",
+    "https://www.whgk.com/member_investment.html",
+    "https://www.whgk.com/column_map.html"
+  ],
+  "first_seen_by_url": {
+    "https://www.whgk.com/business.html": "2026-09-15",
+    "https://www.whgk.com/business_investment.html": "2026-09-15",
+    "https://www.whgk.com/business_park.html": "2026-09-15",
+    "https://www.whgk.com/member_investment.html": "2026-09-15",
+    "https://www.whgk.com/column_map.html": "2026-09-15"
+  }
+}
