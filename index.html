@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="color-scheme" content="dark">
+<title>2027武汉央国企 + 世界500强求职监控｜王嘉懿</title>
+<style>
+:root{--bg:#07101d;--p:#0f1b2d;--p2:#13243b;--line:#263a58;--text:#edf4ff;--muted:#96abc6;--cyan:#6adcf8;--green:#57e0a2;--yellow:#ffd46e;--red:#ff9292;--purple:#bdaaff}
+*{box-sizing:border-box}body{margin:0;background:linear-gradient(180deg,#07101d,#0a1423 45%,#07101d);color:var(--text);font-family:Inter,"PingFang SC","Microsoft YaHei",system-ui,sans-serif;line-height:1.5}a{color:inherit;text-decoration:none}
+.wrap{max-width:1480px;margin:auto;padding:22px 22px 70px}.hero{border:1px solid var(--line);border-radius:24px;padding:26px;background:radial-gradient(circle at 92% 5%,#1d4668,transparent 35%),linear-gradient(135deg,#10243b,#101729);box-shadow:0 20px 60px #0005}
+.kicker{font-size:12px;font-weight:900;color:var(--cyan);letter-spacing:.12em}.hero h1{font-size:clamp(30px,4vw,52px);line-height:1.08;margin:8px 0 10px}.hero p{max-width:1000px;color:var(--muted)}.badges,.pills,.quick{display:flex;gap:7px;flex-wrap:wrap}.badge,.pill{padding:6px 9px;border:1px solid var(--line);background:#102038;border-radius:999px;font-size:12px}.badge b{color:#fff}.live{color:#9cf2cc;border-color:#2d7759;background:#0d2b23}.stale{color:#ffe4a1;border-color:#7a642e;background:#2c2615}
+.stats{display:grid;grid-template-columns:repeat(7,1fr);gap:10px;margin:14px 0}.stat{background:var(--p);border:1px solid var(--line);padding:14px;border-radius:15px}.stat b{font-size:25px}.stat span{display:block;color:var(--muted);font-size:11px}
+.alert{margin-top:15px;padding:13px 15px;border-radius:14px;background:#102d3e;border:1px solid #315a70;color:#dbf6ff}.alert b{color:#83e6ff}
+.panel{background:var(--p);border:1px solid var(--line);border-radius:18px;padding:17px;margin-top:16px}.panel h2{margin:0 0 11px;font-size:21px}.muted{color:var(--muted)}
+.controls{position:sticky;top:0;z-index:10;margin-top:16px;background:#07101deb;backdrop-filter:blur(13px);border:1px solid var(--line);border-radius:18px;padding:12px}.row{display:grid;grid-template-columns:2fr repeat(5,1fr);gap:8px}input,select{width:100%;background:#0d1a2d;color:var(--text);border:1px solid #304765;border-radius:11px;padding:10px 11px;outline:none}.quick{margin-top:8px}.q{border:1px solid var(--line);border-radius:999px;background:#12223a;color:#d5e4f5;padding:7px 10px;cursor:pointer;font-size:12px}.q:hover{border-color:var(--cyan)}
+.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:13px}.card{background:linear-gradient(180deg,#101d31,#0d1829);border:1px solid var(--line);border-radius:18px;padding:16px;position:relative}.card.new{box-shadow:0 0 0 1px #57e0a233,0 13px 36px #0d6b4930}.head{display:flex;justify-content:space-between;gap:12px}.name{font-weight:900;font-size:18px}.meta{font-size:11px;color:var(--muted);margin-top:4px}.score{width:62px;height:62px;border-radius:50%;display:grid;place-items:center;font-size:20px;font-weight:900;position:relative;flex:none}.score:after{content:"";position:absolute;inset:5px;background:#0e1a2c;border-radius:50%}.score span{z-index:1}.score small{display:block;font-size:8px;color:var(--muted)}
+.role{font-size:11px;padding:5px 7px;border-radius:8px;background:#182b46;color:#e1edf9}.role b{color:var(--cyan)}.open{color:#9cf0c9;border-color:#2c7658;background:#0e2b23}.applied{color:#d0c4ff;border-color:#65589f;background:#211d40}.watch{color:#ffe5a4;border-color:#7d672e;background:#2f2814}.danger{color:#ffc0c0;border-color:#7e4141;background:#321b1b}
+.desc{font-size:12px;color:#c7d5e6;margin:8px 0}.warn{font-size:11px;color:#ffe3a9;background:#2d2718;border:1px solid #5d4e2a;border-radius:9px;padding:7px 9px}.actions{display:flex;gap:7px;align-items:center;flex-wrap:wrap;margin-top:10px}.btn{padding:8px 10px;border-radius:9px;border:1px solid var(--line);background:#142640;color:#e8f2ff;font-size:11px;font-weight:800}.btn.primary{background:#e1f7ff;color:#082033;border-color:#e1f7ff}.progress{margin-left:auto}.progress select{padding:7px;width:auto;font-size:11px}.small{font-size:11px;color:var(--muted)}.countdown{font-weight:900}.countdown.urgent{color:var(--red)}.countdown.soon{color:var(--yellow)}
+.discovered{display:grid;grid-template-columns:repeat(2,1fr);gap:12px}.djob{border:1px solid #31506e;background:#0f2137;border-radius:15px;padding:13px}.djob .title{font-weight:900}.newtag{font-size:10px;padding:3px 6px;border-radius:999px;color:#08170f;background:var(--green);font-weight:900;margin-left:5px}.event{padding:10px 0;border-bottom:1px dashed #2b3f5d;font-size:12px}.event:last-child{border-bottom:0}.event time{color:var(--muted);margin-right:8px}.hidden{display:none!important}
+@media(max-width:1000px){.grid,.discovered{grid-template-columns:1fr}.stats{grid-template-columns:repeat(3,1fr)}.row{grid-template-columns:1fr 1fr}}@media(max-width:620px){.wrap{padding:12px 10px 50px}.hero{padding:18px}.stats{grid-template-columns:1fr 1fr}.row{grid-template-columns:1fr}.progress{margin-left:0;width:100%}.progress select{width:100%}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<section class="hero">
+<div class="kicker">2027 CAMPUS RECRUITMENT · WUHAN · AUTO MONITOR V2</div>
+<h1>武汉央国企 + 世界500强求职监控</h1>
+<p>个人化筛选逻辑：武汉优先、不接受长期海外外派；主投财务/税务、经营分析、数字化转型/运营、产业研究/战略规划。V2.1 新增 <b style="color:#fff">2026 Fortune Global 500 在汉机会池</b>。</p>
+<div class="badges"><span class="badge">数据池 <b id="b-total">—</b></span><span class="badge">自动发现 <b id="b-discovered">—</b></span><span class="badge">最近刷新 <b id="b-last">尚未运行</b></span><span id="liveBadge" class="badge stale">● 自动监控待部署</span></div>
+<div class="alert" id="heroAlert"><b>部署后：</b>GitHub Actions 每天北京时间 08:00、13:00、20:00 自动检查官网。发现新岗位或招聘页变化会写入“最新变化”，网页随 GitHub Pages 自动更新。</div>
+</section>
+
+<div class="stats">
+<div class="stat"><b id="s-open">0</b><span>当前开放</span></div>
+<div class="stat"><b id="s-high">0</b><span>公司匹配 ≥90</span></div>
+<div class="stat"><b id="s-new">0</b><span>新发现岗位</span></div>
+<div class="stat"><b id="s-errors">0</b><span>官网检查失败</span></div>
+<div class="stat"><b id="s-watch">0</b><span>待开放监控</span></div>
+<div class="stat"><b id="s-applied">0</b><span>已投递</span></div>
+<div class="stat"><b id="s-f500">0</b><span>世界500强池</span></div>
+</div>
+
+<section class="panel">
+<h2>世界500强｜当前已核验武汉岗位</h2>
+<p class="small">这些不是仅有“公司在武汉”，而是我已核验到具体武汉岗位。优先级按你的简历而不是公司名气排序。</p>
+<div id="verified" class="discovered"></div>
+</section>
+
+<section class="panel">
+<h2>今天优先处理</h2>
+<div id="today" class="discovered"></div>
+<div id="todayEmpty" class="muted small">暂无自动发现结果；首次部署后会自动生成。</div>
+</section>
+
+<section class="panel">
+<h2>自动发现的新岗位 / 招聘入口</h2>
+<p class="small">这里只显示监控程序从官网中识别出来的候选链接，并按你的简历关键词动态打分。自动识别不能替代公告里的专业代码、院校名单等硬门槛。</p>
+<div id="discovered" class="discovered"></div>
+<div id="discEmpty" class="muted small">尚未运行自动监控。部署后第一次 Action 完成，这里会出现新发现。</div>
+</section>
+
+<section class="panel">
+<h2>最新变化</h2>
+<div id="changes"><div class="muted small">暂无自动监控记录。</div></div>
+</section>
+
+<div class="controls">
+<div class="row">
+<input id="search" placeholder="搜索企业 / 财务 / 数字化 / 产业研究…">
+<select id="pool"><option value="">全部企业池</option><option value="央国企">央国企</option><option value="世界500强">世界500强</option></select>
+<select id="status"><option value="">全部状态</option><option value="open">正在招</option><option value="watch">待开放/监控</option><option value="applied">已投递</option></select>
+<select id="priority"><option value="">全部优先级</option><option>S</option><option>A</option><option>B</option><option>C</option></select>
+<select id="risk"><option value="">全部地点风险</option><option>低</option><option>低-中</option><option>中</option><option>中-高</option><option>高</option></select>
+<select id="sort"><option value="match">匹配度从高到低</option><option value="open">正在招优先</option><option value="priority">优先级</option><option value="company">企业名称</option></select>
+</div>
+<div class="quick">
+<button class="q" onclick="setQuick('fortune')">🌍 世界500强</button><button class="q" onclick="setQuick('urgent')">🔥 现在该投</button><button class="q" onclick="setQuick('90')">🎯 90+</button><button class="q" onclick="setQuick('low')">🏠 低地点风险</button><button class="q" onclick="setQuick('finance')">💰 财务/审计</button><button class="q" onclick="setQuick('digital')">💻 数字化/运营</button><button class="q" onclick="setQuick('research')">📊 产业/战略</button><button class="q" onclick="resetAll()">重置</button>
+</div>
+</div>
+
+<section style="margin-top:25px"><div style="display:flex;justify-content:space-between;align-items:end"><h2 style="margin:0 0 10px">企业与投递入口</h2><span class="small" id="count"></span></div><div id="grid" class="grid"></div></section>
+</div>
+
+<script src="data/jobs.js"></script>
+<script src="data/discovered_jobs.js"></script>
+<script src="data/verified_jobs.js"></script>
+<script src="data/changes.js"></script>
+<script src="data/monitor_meta.js"></script>
+<script>
+const JOBS=window.JOBS_DATA||[], DISC=window.DISCOVERED_JOBS||[], VERIFIED=window.VERIFIED_JOBS||[], CHANGES=window.MONITOR_CHANGES||[], META=window.MONITOR_META||{};
+const STATUS={open:"正在招",watch:"待开放/监控",applied:"已投递"}; let quick="";
+const prog=["未处理","准备投","已投递","笔试","面试","Offer","放弃"];
+const e=s=>String(s??"").replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[m]));
+function storeGet(k){try{return localStorage.getItem(k)}catch{return null}} function storeSet(k,v){try{localStorage.setItem(k,v)}catch{}}
+function color(n){return n>=90?"#57e0a2":n>=85?"#6adcf8":n>=80?"#ffd46e":"#ff9292"}
+function daysLeft(iso){if(!iso)return null;const d=new Date(iso),now=new Date();if(isNaN(d))return null;return Math.ceil((d-now)/86400000)}
+function countdown(j){const d=daysLeft(j.deadline_iso);if(d===null)return e(j.deadline||"未公布");if(d<0)return `<span class="countdown urgent">已过截止日期</span>`;if(d<=3)return `<span class="countdown urgent">剩 ${d} 天</span>`;if(d<=7)return `<span class="countdown soon">剩 ${d} 天</span>`;return `<span class="countdown">剩 ${d} 天</span>`}
+function pval(j){return storeGet("p-"+j.id)||(j.status==="applied"?"已投递":"未处理")} function setP(id,v){storeSet("p-"+id,v)}
+function monitorPill(j){const m=j.monitor||{}; if(m.check_status==="ok"){return `<span class="pill ${m.page_changed?"live":""}">${m.page_changed?"官网有变化":"官网已检查"}</span>`} if(m.check_status==="error")return `<span class="pill danger">检查失败</span>`;return `<span class="pill">等待自动检查</span>`}
+function jobCard(j){const roles=(j.roles||[]).map(r=>`<span class="role">${e(r[0])} <b>${r[1]}</b></span>`).join("");const pv=pval(j);const opts=prog.map(x=>`<option ${x===pv?"selected":""}>${x}</option>`).join("");return `<article class="card">
+<div class="head"><div><div class="name">${e(j.company)}</div><div class="meta">${e(j.type)} · ${e(j.location)} · 优先级 ${e(j.priority)}${j.fortune_rank_2026?` · Fortune #${j.fortune_rank_2026}`:""}</div></div><div class="score" style="background:conic-gradient(${color(j.match)} ${j.match}%,#263a58 0)"><span>${j.match}<small>匹配度</small></span></div></div>
+<div class="pills"><span class="pill ${j.status}">${STATUS[j.status]}</span><span class="pill ${/高/.test(j.mobility)?"danger":""}">地点风险 ${e(j.mobility)}</span>${monitorPill(j)}</div>
+<div class="pills">${roles}</div><div class="small"><b>时间：</b>${countdown(j)} · ${e(j.deadline||"")}</div>
+<p class="desc"><b>适配：</b>${e(j.fit)}</p><div class="warn"><b>注意：</b>${e(j.gap)}</div>
+<div class="actions">${j.apply?`<a class="btn primary" target="_blank" rel="noopener" href="${e(j.apply)}">官网投递 ↗</a>`:""}${j.official?`<a class="btn" target="_blank" rel="noopener" href="${e(j.official)}">官网 ↗</a>`:""}<span class="progress"><select onchange="setP('${e(j.id)}',this.value)">${opts}</select></span></div>
+<div class="small" style="margin-top:8px">${j.monitor?.signal?`监控：${e(j.monitor.signal)}${j.monitor.last_checked?" · "+e(j.monitor.last_checked):""}`:""}</div>
+</article>`}
+function verifiedCard(x){return `<article class="djob new"><div><span class="title">${e(x.company)}｜${e(x.title)}</span><span class="newtag">已核验</span></div><div class="pills" style="margin-top:7px"><span class="pill">匹配 ${x.match}</span><span class="pill">Fortune #${x.fortune_rank}</span><span class="pill open">${e(x.employment)} · ${e(x.location)}</span></div><div class="small" style="margin:7px 0"><b>为什么适合：</b>${e(x.why)}</div><div class="warn">${e(x.warning)}</div><div class="actions"><a class="btn primary" href="${e(x.url)}" target="_blank" rel="noopener">直接看岗位 ↗</a></div></article>`}
+function discCard(x){const hg=Object.entries(x.hit_groups||{}).map(([g,v])=>`${e(g)}：${e(v.slice(0,4).join("、"))}`).join("；");return `<article class="djob ${x.is_new?"new":""}"><div><span class="title">${e(x.company)}｜${e(x.title)}</span>${x.is_new?'<span class="newtag">NEW</span>':""}</div><div class="pills" style="margin-top:7px"><span class="pill">动态匹配 ${x.match}</span><span class="pill ${x.mobility_risk==="高"?"danger":""}">外派风险 ${e(x.mobility_risk)}</span>${(x.technical_hits||[]).length?'<span class="pill danger">可能卡技术专业</span>':""}</div><div class="small" style="margin:7px 0">${hg||"已根据页面文本评分"}</div>${(x.mobility_hits||[]).length?`<div class="warn">地点风险词：${e(x.mobility_hits.join("、"))}</div>`:""}<div class="actions"><a class="btn primary" href="${e(x.url)}" target="_blank" rel="noopener">查看官网岗位 ↗</a></div></article>`}
+function quickMatch(j){const t=(j.company+" "+(j.roles||[]).map(r=>r[0]).join(" ")+" "+j.fit).toLowerCase();if(!quick)return true;if(quick==="fortune")return j.pool==="世界500强";if(quick==="urgent")return j.status==="open"&&j.match>=85;if(quick==="90")return j.match>=90;if(quick==="low")return ["低","低-中"].includes(j.mobility);if(quick==="finance")return /财务|税务|审计|风控|合规|资金/.test(t);if(quick==="digital")return /数字|运营|数据|产品|信息化|解决方案/.test(t);if(quick==="research")return /产业|战略|研究|规划|投资/.test(t);return true}
+function render(){const q=document.querySelector("#search").value.trim().toLowerCase(),pool=document.querySelector("#pool").value,st=document.querySelector("#status").value,pr=document.querySelector("#priority").value,risk=document.querySelector("#risk").value,sort=document.querySelector("#sort").value;let a=JOBS.filter(j=>{const t=(j.company+" "+j.type+" "+j.location+" "+(j.roles||[]).map(r=>r[0]).join(" ")+" "+j.fit+" "+j.gap).toLowerCase();return(!q||t.includes(q))&&(!pool||j.pool===pool)&&(!st||j.status===st)&&(!pr||j.priority===pr)&&(!risk||j.mobility===risk)&&quickMatch(j)});if(sort==="match")a.sort((x,y)=>y.match-x.match);if(sort==="open")a.sort((x,y)=>({open:0,applied:1,watch:2}[x.status]-{open:0,applied:1,watch:2}[y.status])||y.match-x.match);if(sort==="priority")a.sort((x,y)=>({S:0,A:1,B:2,C:3}[x.priority]-{S:0,A:1,B:2,C:3}[y.priority])||y.match-x.match);if(sort==="company")a.sort((x,y)=>x.company.localeCompare(y.company,"zh"));document.querySelector("#grid").innerHTML=a.map(jobCard).join("");document.querySelector("#count").textContent=`显示 ${a.length}/${JOBS.length}`;}
+function setQuick(v){quick=v;render()}function resetAll(){quick="";["search","pool","status","priority","risk"].forEach(id=>document.querySelector("#"+id).value="");document.querySelector("#sort").value="match";render()}
+["search","pool","status","priority","risk","sort"].forEach(id=>document.querySelector("#"+id).addEventListener(id==="search"?"input":"change",()=>{quick="";render()}));
+
+document.querySelector("#verified").innerHTML=VERIFIED.sort((a,b)=>b.match-a.match).map(verifiedCard).join("");
+document.querySelector("#b-total").textContent=JOBS.length;document.querySelector("#b-discovered").textContent=DISC.length;
+document.querySelector("#s-open").textContent=JOBS.filter(x=>x.status==="open").length;document.querySelector("#s-high").textContent=JOBS.filter(x=>x.match>=90).length;document.querySelector("#s-new").textContent=DISC.filter(x=>x.is_new).length;document.querySelector("#s-errors").textContent=JOBS.filter(x=>x.monitor?.check_status==="error").length;document.querySelector("#s-watch").textContent=JOBS.filter(x=>x.status==="watch").length;document.querySelector("#s-applied").textContent=JOBS.filter(x=>x.status==="applied").length;document.querySelector("#s-f500").textContent=JOBS.filter(x=>x.pool==="世界500强").length;
+if(META.last_run){document.querySelector("#b-last").textContent=META.last_run.replace("T"," ").slice(0,16);const b=document.querySelector("#liveBadge");b.className="badge live";b.textContent="● 自动监控已运行";document.querySelector("#heroAlert").innerHTML=`<b>自动监控已运行：</b>最近一次共检查 ${META.targets||0} 个入口，发现 ${META.discovered_jobs||0} 个候选岗位/招聘入口，本轮变化 ${META.changes_this_run||0} 条。`;}
+const top=DISC.filter(x=>x.match>=85).sort((a,b)=>(b.is_new-a.is_new)||b.match-a.match).slice(0,6);if(top.length){document.querySelector("#today").innerHTML=top.map(discCard).join("");document.querySelector("#todayEmpty").classList.add("hidden")}
+if(DISC.length){document.querySelector("#discovered").innerHTML=DISC.slice(0,30).map(discCard).join("");document.querySelector("#discEmpty").classList.add("hidden")}
+if(CHANGES.length){document.querySelector("#changes").innerHTML=CHANGES.slice(0,20).map(x=>`<div class="event"><time>${e((x.time||"").replace("T"," ").slice(0,16))}</time><b>${e(x.company)}</b>：${e(x.message)} ${x.url?`<a style="color:#6adcf8" target="_blank" href="${e(x.url)}">查看↗</a>`:""}</div>`).join("")}
+render();
+</script>
+</body>
+</html>

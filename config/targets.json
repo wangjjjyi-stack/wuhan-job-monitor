@@ -1,0 +1,1172 @@
+[
+  {
+    "id": "wuhan_mtp_2027",
+    "company": "武汉市属国企2027管培生统招",
+    "url": "http://wuhan.nomax.vip/tip/",
+    "location": "武汉",
+    "manual_match": 96,
+    "manual_status": "open",
+    "roles": [
+      "财务审计/风控",
+      "运营管理/经营分析",
+      "信息科技/数字化",
+      "金融投资"
+    ],
+    "max_detail_links": 5,
+    "require_wuhan": false,
+    "pool": "央国企",
+    "fortune_rank_2026": null
+  },
+  {
+    "id": "wuhan_finhold_2027",
+    "company": "武汉金融控股（集团）",
+    "url": "https://www.whzsrc.com/hanpintong/societyProcalmationDetail/jVweF9xXvJ24Ph44nSUH92dQqK2R9tv_tO9caaet5NHx_L88CM80pV3WbjPAjbvlryxMh_C6vvehyN2toN1gng~~",
+    "location": "武汉",
+    "manual_match": 95,
+    "manual_status": "open",
+    "roles": [
+      "财务审计",
+      "风险合规",
+      "科技金融",
+      "行业研究"
+    ],
+    "max_detail_links": 5,
+    "require_wuhan": false,
+    "pool": "央国企",
+    "fortune_rank_2026": null
+  },
+  {
+    "id": "hb_bigdata",
+    "company": "湖北大数据集团",
+    "url": "https://www.hbdsjjt.com/",
+    "location": "武汉",
+    "manual_match": 94,
+    "manual_status": "watch",
+    "roles": [
+      "经营管理",
+      "战略研究",
+      "规划咨询",
+      "运营管理",
+      "数据资产运营",
+      "解决方案"
+    ],
+    "max_detail_links": 5,
+    "require_wuhan": false,
+    "pool": "央国企",
+    "fortune_rank_2026": null
+  },
+  {
+    "id": "hb_liantou",
+    "company": "湖北联投集团",
+    "url": "https://hblt.zhiye.com/campus",
+    "location": "武汉为主",
+    "manual_match": 93,
+    "manual_status": "watch",
+    "roles": [
+      "财务资金",
+      "内控审计",
+      "经营管理",
+      "战略投资",
+      "数字化运营"
+    ],
+    "max_detail_links": 5,
+    "require_wuhan": false,
+    "pool": "央国企",
+    "fortune_rank_2026": null
+  },
+  {
+    "id": "cj_industry",
+    "company": "长江产业投资集团",
+    "url": "https://cjcyjt-campus.zhiye.com/",
+    "location": "武汉",
+    "manual_match": 88,
+    "manual_status": "watch",
+    "roles": [
+      "产业研究",
+      "战略规划",
+      "运营管理",
+      "产业投资",
+      "基金运营"
+    ],
+    "max_detail_links": 5,
+    "require_wuhan": false,
+    "pool": "央国企",
+    "fortune_rank_2026": null
+  },
+  {
+    "id": "hb_hongtai",
+    "company": "湖北宏泰集团",
+    "url": "https://www.hbhtgroup.com/rcfz/zxns/",
+    "location": "武汉",
+    "manual_match": 90,
+    "manual_status": "watch",
+    "roles": [
+      "财务审计",
+      "风险合规",
+      "经营管理",
+      "产业金融",
+      "投资管理"
+    ],
+    "max_detail_links": 5,
+    "require_wuhan": false,
+    "pool": "央国企",
+    "fortune_rank_2026": null
+  },
+  {
+    "id": "hb_jiaotou",
+    "company": "湖北交通投资集团",
+    "url": "http://zp.hbjttz.com/",
+    "location": "武汉/湖北",
+    "manual_match": 88,
+    "manual_status": "watch",
+    "roles": [
+      "财务金融",
+      "经营管理",
+      "投资运营",
+      "数字化运营"
+    ],
+    "max_detail_links": 5,
+    "require_wuhan": false,
+    "pool": "央国企",
+    "fortune_rank_2026": null
+  },
+  {
+    "id": "hb_port",
+    "company": "湖北港口集团",
+    "url": "https://hbgk.jobhb.com/",
+    "location": "武汉/湖北港口城市",
+    "manual_match": 83,
+    "manual_status": "watch",
+    "roles": [
+      "资本运营",
+      "经营管理",
+      "财务管理",
+      "综合管理"
+    ],
+    "max_detail_links": 5,
+    "require_wuhan": false,
+    "pool": "央国企",
+    "fortune_rank_2026": null
+  },
+  {
+    "id": "hb_rail",
+    "company": "湖北铁路集团",
+    "url": "http://www.hbttjt.cn/",
+    "location": "武汉/湖北",
+    "manual_match": 85,
+    "manual_status": "watch",
+    "roles": [
+      "财务管理",
+      "投融资",
+      "经营管理",
+      "综合管理"
+    ],
+    "max_detail_links": 5,
+    "require_wuhan": false,
+    "pool": "央国企",
+    "fortune_rank_2026": null
+  },
+  {
+    "id": "hb_airport",
+    "company": "湖北机场集团",
+    "url": "https://www.hubeiairports.com/",
+    "location": "武汉为核心",
+    "manual_match": 85,
+    "manual_status": "watch",
+    "roles": [
+      "财务管理",
+      "经营分析",
+      "数字化运营",
+      "综合管理"
+    ],
+    "max_detail_links": 5,
+    "require_wuhan": false,
+    "pool": "央国企",
+    "fortune_rank_2026": null
+  },
+  {
+    "id": "hb_agri",
+    "company": "湖北农业发展集团",
+    "url": "http://www.hbnyfzjt.com/",
+    "location": "武汉/湖北",
+    "manual_match": 82,
+    "manual_status": "watch",
+    "roles": [
+      "财务管理",
+      "经营分析",
+      "供应链运营",
+      "产业研究"
+    ],
+    "max_detail_links": 5,
+    "require_wuhan": false,
+    "pool": "央国企",
+    "fortune_rank_2026": null
+  },
+  {
+    "id": "hb_culture",
+    "company": "湖北文化旅游集团",
+    "url": "http://www.hbctic.com/",
+    "location": "武汉/湖北",
+    "manual_match": 83,
+    "manual_status": "watch",
+    "roles": [
+      "财务管理",
+      "运营管理",
+      "数字化运营",
+      "产业研究"
+    ],
+    "max_detail_links": 5,
+    "require_wuhan": false,
+    "pool": "央国企",
+    "fortune_rank_2026": null
+  },
+  {
+    "id": "hb_consult",
+    "company": "中南工程咨询设计集团",
+    "url": "https://www.cseec.cn/",
+    "location": "武汉",
+    "manual_match": 81,
+    "manual_status": "watch",
+    "roles": [
+      "财务管理",
+      "经营管理",
+      "咨询/规划辅助",
+      "综合管理"
+    ],
+    "max_detail_links": 5,
+    "require_wuhan": false,
+    "pool": "央国企",
+    "fortune_rank_2026": null
+  },
+  {
+    "id": "wuhan_industrial",
+    "company": "武汉产业投资控股集团",
+    "url": "https://www.whzsrc.com/",
+    "location": "武汉",
+    "manual_match": 88,
+    "manual_status": "watch",
+    "roles": [
+      "产业研究",
+      "战略规划",
+      "经营管理",
+      "审计/财务",
+      "项目投资"
+    ],
+    "max_detail_links": 5,
+    "require_wuhan": false,
+    "pool": "央国企",
+    "fortune_rank_2026": null
+  },
+  {
+    "id": "wuhan_citydev",
+    "company": "武汉城市发展集团",
+    "url": "http://wuhan.nomax.vip/tip/",
+    "location": "武汉",
+    "manual_match": 88,
+    "manual_status": "watch",
+    "roles": [
+      "财务审计",
+      "经营管理",
+      "数字化/信息管理",
+      "产业运营"
+    ],
+    "max_detail_links": 5,
+    "require_wuhan": false,
+    "pool": "央国企",
+    "fortune_rank_2026": null
+  },
+  {
+    "id": "wuhan_urbanbuild",
+    "company": "武汉城市建设集团",
+    "url": "https://whucg.cn/CAREERS.html",
+    "location": "武汉",
+    "manual_match": 86,
+    "manual_status": "watch",
+    "roles": [
+      "财务管理",
+      "资产运营",
+      "经营管理",
+      "信息化管理"
+    ],
+    "max_detail_links": 5,
+    "require_wuhan": false,
+    "pool": "央国企",
+    "fortune_rank_2026": null
+  },
+  {
+    "id": "wuhan_cityinvest",
+    "company": "武汉市城市建设投资开发集团",
+    "url": "http://www.zgwhct.cn/",
+    "location": "武汉",
+    "manual_match": 86,
+    "manual_status": "watch",
+    "roles": [
+      "财务管理",
+      "运营管理",
+      "投资/资本",
+      "数字化运营"
+    ],
+    "max_detail_links": 5,
+    "require_wuhan": false,
+    "pool": "央国企",
+    "fortune_rank_2026": null
+  },
+  {
+    "id": "wuhan_metro",
+    "company": "武汉地铁集团",
+    "url": "https://cjob.wuhanrt.com/",
+    "location": "武汉",
+    "manual_match": 74,
+    "manual_status": "watch",
+    "roles": [
+      "经营管理",
+      "财务管理",
+      "供应链/成本",
+      "数字化运营"
+    ],
+    "max_detail_links": 5,
+    "require_wuhan": false,
+    "pool": "央国企",
+    "fortune_rank_2026": null
+  },
+  {
+    "id": "wuhan_culture",
+    "company": "武汉文化旅游集团",
+    "url": "https://www.whzsrc.com/",
+    "location": "武汉",
+    "manual_match": 84,
+    "manual_status": "watch",
+    "roles": [
+      "财务管理",
+      "运营策划",
+      "经营分析",
+      "数字化运营"
+    ],
+    "max_detail_links": 5,
+    "require_wuhan": false,
+    "pool": "央国企",
+    "fortune_rank_2026": null
+  },
+  {
+    "id": "wuhan_agri",
+    "company": "武汉农业集团",
+    "url": "http://wuhan.nomax.vip/tip/",
+    "location": "武汉",
+    "manual_match": 79,
+    "manual_status": "watch",
+    "roles": [
+      "财务管理",
+      "经营管理",
+      "产业运营",
+      "数字供应链"
+    ],
+    "max_detail_links": 5,
+    "require_wuhan": false,
+    "pool": "央国企",
+    "fortune_rank_2026": null
+  },
+  {
+    "id": "wuhan_bus",
+    "company": "武汉市公共交通集团",
+    "url": "http://wuhan.nomax.vip/tip/",
+    "location": "武汉",
+    "manual_match": 78,
+    "manual_status": "watch",
+    "roles": [
+      "财务管理",
+      "经营分析",
+      "数字运营",
+      "综合管理"
+    ],
+    "max_detail_links": 5,
+    "require_wuhan": false,
+    "pool": "央国企",
+    "fortune_rank_2026": null
+  },
+  {
+    "id": "wuhan_guanggu_fin",
+    "company": "武汉光谷金融控股集团",
+    "url": "http://www.whggjk.com/",
+    "location": "武汉光谷",
+    "manual_match": 88,
+    "manual_status": "watch",
+    "roles": [
+      "财务融资",
+      "风控合规",
+      "科技金融",
+      "产业研究",
+      "综合管理"
+    ],
+    "max_detail_links": 5,
+    "require_wuhan": false,
+    "pool": "央国企",
+    "fortune_rank_2026": null
+  },
+  {
+    "id": "wuhan_innovation",
+    "company": "武汉创新投资集团/光谷创投体系",
+    "url": "https://www.ggrenfu.cn/",
+    "location": "武汉",
+    "manual_match": 79,
+    "manual_status": "watch",
+    "roles": [
+      "产业研究",
+      "投资助理",
+      "基金运营",
+      "投后管理"
+    ],
+    "max_detail_links": 5,
+    "require_wuhan": false,
+    "pool": "央国企",
+    "fortune_rank_2026": null
+  },
+  {
+    "id": "wuhan_hightech",
+    "company": "武汉高科国有控股集团",
+    "url": "https://www.whgk.com/resources_join.html",
+    "location": "武汉光谷",
+    "manual_match": 82,
+    "manual_status": "watch",
+    "roles": [
+      "资产运营",
+      "产业运营",
+      "财务管理",
+      "投资辅助"
+    ],
+    "max_detail_links": 5,
+    "require_wuhan": false,
+    "pool": "央国企",
+    "fortune_rank_2026": null
+  },
+  {
+    "id": "cec",
+    "company": "中国电子信息产业集团（中国电子）",
+    "url": "https://campus.cec.com.cn/",
+    "location": "武汉有岗",
+    "manual_match": 90,
+    "manual_status": "open",
+    "roles": [
+      "财务/审计",
+      "数据运营",
+      "政务运营",
+      "解决方案",
+      "综合管理"
+    ],
+    "max_detail_links": 5,
+    "require_wuhan": false,
+    "pool": "央国企",
+    "fortune_rank_2026": null
+  },
+  {
+    "id": "cecloud",
+    "company": "中国电子云",
+    "url": "https://www.cecloud.com/",
+    "location": "武汉有岗",
+    "manual_match": 91,
+    "manual_status": "open",
+    "roles": [
+      "财务",
+      "数字化运营",
+      "产品运营/产品经理",
+      "解决方案"
+    ],
+    "max_detail_links": 5,
+    "require_wuhan": false,
+    "pool": "央国企",
+    "fortune_rank_2026": null
+  },
+  {
+    "id": "dfmc",
+    "company": "东风汽车集团",
+    "url": "https://www.dfmc.com.cn/zhaopin/zhaopin.html",
+    "location": "武汉总部/多地",
+    "manual_match": 89,
+    "manual_status": "open",
+    "roles": [
+      "财务管理",
+      "经营分析",
+      "数字化运营",
+      "战略运营",
+      "供应链运营"
+    ],
+    "max_detail_links": 5,
+    "require_wuhan": false,
+    "pool": "央国企",
+    "fortune_rank_2026": null
+  },
+  {
+    "id": "ctg",
+    "company": "中国长江三峡集团",
+    "url": "https://www.ctg.com.cn/",
+    "location": "武汉总部/全国",
+    "manual_match": 88,
+    "manual_status": "watch",
+    "roles": [
+      "财务管理",
+      "经营管理",
+      "数字化管理",
+      "审计风控",
+      "投资运营"
+    ],
+    "max_detail_links": 5,
+    "require_wuhan": false,
+    "pool": "央国企",
+    "fortune_rank_2026": null
+  },
+  {
+    "id": "hb_energy",
+    "company": "湖北能源集团",
+    "url": "https://campus.chinahr.com/pages/sanxia/#/notices?type=campus",
+    "location": "武汉总部/湖北及外省项目",
+    "manual_match": 86,
+    "manual_status": "watch",
+    "roles": [
+      "财务管理",
+      "经营管理",
+      "审计风控",
+      "投资运营"
+    ],
+    "max_detail_links": 5,
+    "require_wuhan": false,
+    "pool": "央国企",
+    "fortune_rank_2026": null
+  },
+  {
+    "id": "chnenergy",
+    "company": "国家能源集团",
+    "url": "https://zhaopin.chnenergy.com.cn/",
+    "location": "全国；需筛武汉/湖北",
+    "manual_match": 84,
+    "manual_status": "open",
+    "roles": [
+      "财务管理",
+      "经营分析",
+      "综合管理",
+      "数字化业务"
+    ],
+    "max_detail_links": 5,
+    "require_wuhan": false,
+    "pool": "央国企",
+    "fortune_rank_2026": null
+  },
+  {
+    "id": "sgcc_hb",
+    "company": "国网湖北省电力",
+    "url": "https://zhaopin.sgcc.com.cn/",
+    "location": "湖北全省",
+    "manual_match": 80,
+    "manual_status": "watch",
+    "roles": [
+      "财务管理",
+      "经营管理",
+      "综合管理",
+      "数字化管理"
+    ],
+    "max_detail_links": 5,
+    "require_wuhan": false,
+    "pool": "央国企",
+    "fortune_rank_2026": null
+  },
+  {
+    "id": "cnpc_hb",
+    "company": "中国石油湖北销售公司",
+    "url": "https://zhaopin.cnpc.com.cn/",
+    "location": "武汉",
+    "manual_match": 90,
+    "manual_status": "open",
+    "roles": [
+      "经济/经营管理类",
+      "财务/经营分析",
+      "新能源业务运营"
+    ],
+    "max_detail_links": 5,
+    "require_wuhan": false,
+    "pool": "央国企",
+    "fortune_rank_2026": null
+  },
+  {
+    "id": "sinopec_hb",
+    "company": "中国石化湖北石油",
+    "url": "http://job.sinopec.com/",
+    "location": "武汉/湖北全省",
+    "manual_match": 87,
+    "manual_status": "watch",
+    "roles": [
+      "综合能源运营",
+      "财务/审计",
+      "经营管理",
+      "供应链运营"
+    ],
+    "max_detail_links": 5,
+    "require_wuhan": false,
+    "pool": "央国企",
+    "fortune_rank_2026": null
+  },
+  {
+    "id": "cict",
+    "company": "中国信息通信科技集团（中国信科）",
+    "url": "https://www.cict.com/p1/JoinRecruitment.jhtml",
+    "location": "武汉总部",
+    "manual_match": 82,
+    "manual_status": "watch",
+    "roles": [
+      "财务管理",
+      "经营管理",
+      "数字化业务/项目管理",
+      "市场运营"
+    ],
+    "max_detail_links": 5,
+    "require_wuhan": false,
+    "pool": "央国企",
+    "fortune_rank_2026": null
+  },
+  {
+    "id": "fiberhome",
+    "company": "烽火通信",
+    "url": "https://app.mokahr.com/campus-recruitment/whfhtx/73922",
+    "location": "武汉/全国",
+    "manual_match": 79,
+    "manual_status": "open",
+    "roles": [
+      "财务/经营",
+      "产品/运营",
+      "项目管理",
+      "解决方案"
+    ],
+    "max_detail_links": 5,
+    "require_wuhan": false,
+    "pool": "央国企",
+    "fortune_rank_2026": null
+  },
+  {
+    "id": "gez",
+    "company": "中国葛洲坝集团",
+    "url": "https://app.mokahr.com/campus-recruitment/cggc/145102#/",
+    "location": "武汉总部/全国/海外项目",
+    "manual_match": 92,
+    "manual_status": "open",
+    "roles": [
+      "财务/税务",
+      "审计",
+      "综合管理",
+      "金融投资"
+    ],
+    "max_detail_links": 5,
+    "require_wuhan": false,
+    "pool": "央国企",
+    "fortune_rank_2026": null
+  },
+  {
+    "id": "cscec3",
+    "company": "中建三局",
+    "url": "http://zhaopin.cscec3b.com.cn/",
+    "location": "武汉总部/全国项目",
+    "manual_match": 90,
+    "manual_status": "open",
+    "roles": [
+      "财务/税务",
+      "经营管理",
+      "投资运营",
+      "数字化职能"
+    ],
+    "max_detail_links": 5,
+    "require_wuhan": false,
+    "pool": "央国企",
+    "fortune_rank_2026": null
+  },
+  {
+    "id": "cscec8_hz",
+    "company": "中建八局华中公司",
+    "url": "https://job.cscec.com/",
+    "location": "武汉/华中项目",
+    "manual_match": 86,
+    "manual_status": "open",
+    "roles": [
+      "财务相关岗",
+      "经营管理",
+      "综合职能"
+    ],
+    "max_detail_links": 5,
+    "require_wuhan": false,
+    "pool": "央国企",
+    "fortune_rank_2026": null
+  },
+  {
+    "id": "cr11",
+    "company": "中铁十一局",
+    "url": "https://www.cr11g.com.cn/",
+    "location": "武汉总部/全国及海外项目",
+    "manual_match": 84,
+    "manual_status": "open",
+    "roles": [
+      "财务管理",
+      "经营管理",
+      "综合管理"
+    ],
+    "max_detail_links": 5,
+    "require_wuhan": false,
+    "pool": "央国企",
+    "fortune_rank_2026": null
+  },
+  {
+    "id": "sneb",
+    "company": "中交第二航务工程局（二航局）",
+    "url": "https://www.sneb.com.cn/col80/index",
+    "location": "武汉总部/全国及海外项目",
+    "manual_match": 84,
+    "manual_status": "watch",
+    "roles": [
+      "财务管理",
+      "经营管理",
+      "综合管理"
+    ],
+    "max_detail_links": 5,
+    "require_wuhan": false,
+    "pool": "央国企",
+    "fortune_rank_2026": null
+  },
+  {
+    "id": "crmb",
+    "company": "中铁大桥局",
+    "url": "https://www.ztmbec.com/",
+    "location": "武汉总部/全国项目",
+    "manual_match": 83,
+    "manual_status": "watch",
+    "roles": [
+      "财务管理",
+      "经营管理",
+      "综合职能"
+    ],
+    "max_detail_links": 5,
+    "require_wuhan": false,
+    "pool": "央国企",
+    "fortune_rank_2026": null
+  },
+  {
+    "id": "cj_design",
+    "company": "长江设计集团",
+    "url": "http://campus.51job.com/cjwsjy",
+    "location": "武汉",
+    "manual_match": 82,
+    "manual_status": "open",
+    "roles": [
+      "财务管理",
+      "经营管理",
+      "咨询/综合管理"
+    ],
+    "max_detail_links": 5,
+    "require_wuhan": false,
+    "pool": "央国企",
+    "fortune_rank_2026": null
+  },
+  {
+    "id": "threegorges_guarantee",
+    "company": "重庆三峡担保集团（武汉岗）",
+    "url": "https://www.cqsxdb.com/",
+    "location": "武汉可选",
+    "manual_match": 86,
+    "manual_status": "open",
+    "roles": [
+      "管理培训生",
+      "项目经理",
+      "风险管理"
+    ],
+    "max_detail_links": 5,
+    "require_wuhan": false,
+    "pool": "央国企",
+    "fortune_rank_2026": null
+  },
+  {
+    "id": "wisco",
+    "company": "宝武集团/武钢集团在汉单位",
+    "url": "https://www.baowugroup.com/",
+    "location": "武汉",
+    "manual_match": 86,
+    "manual_status": "watch",
+    "roles": [
+      "财务管理",
+      "经营分析",
+      "数字化管理",
+      "审计风控"
+    ],
+    "max_detail_links": 5,
+    "require_wuhan": false,
+    "pool": "央国企",
+    "fortune_rank_2026": null
+  },
+  {
+    "id": "post_hubei",
+    "company": "中国邮政集团湖北省分公司",
+    "url": "https://chinapost2026.zhaopin.com/",
+    "location": "武汉/湖北",
+    "manual_match": 85,
+    "manual_status": "watch",
+    "roles": [
+      "财务管理",
+      "经营分析",
+      "数字化运营",
+      "综合管理"
+    ],
+    "max_detail_links": 5,
+    "require_wuhan": false,
+    "pool": "央国企",
+    "fortune_rank_2026": null
+  },
+  {
+    "id": "sinograin_hb",
+    "company": "中储粮湖北分公司",
+    "url": "https://zhaopin.sinograin.com.cn/",
+    "location": "武汉/湖北",
+    "manual_match": 83,
+    "manual_status": "watch",
+    "roles": [
+      "财务管理",
+      "综合管理",
+      "经营/计划"
+    ],
+    "max_detail_links": 5,
+    "require_wuhan": false,
+    "pool": "央国企",
+    "fortune_rank_2026": null
+  },
+  {
+    "id": "telecom_hb",
+    "company": "中国电信湖北公司",
+    "url": "https://job.chinatelecom.com.cn/",
+    "location": "武汉/湖北",
+    "manual_match": 91,
+    "manual_status": "applied",
+    "roles": [
+      "产数/企业信息化",
+      "数据运营",
+      "综合支撑/财务",
+      "解决方案"
+    ],
+    "max_detail_links": 5,
+    "require_wuhan": false,
+    "pool": "央国企",
+    "fortune_rank_2026": null
+  },
+  {
+    "id": "unicom_hb",
+    "company": "中国联通湖北公司",
+    "url": "https://zglt.zhaopin.com/home/index.html",
+    "location": "武汉/湖北",
+    "manual_match": 88,
+    "manual_status": "applied",
+    "roles": [
+      "数据运营",
+      "产品运营",
+      "解决方案",
+      "综合管理"
+    ],
+    "max_detail_links": 5,
+    "require_wuhan": false,
+    "pool": "央国企",
+    "fortune_rank_2026": null
+  },
+  {
+    "id": "mobile_hb",
+    "company": "中国移动湖北公司",
+    "url": "https://job.10086.cn/",
+    "location": "武汉/湖北",
+    "manual_match": 86,
+    "manual_status": "applied",
+    "roles": [
+      "产品/运营",
+      "经营分析",
+      "综合管理",
+      "数据治理"
+    ],
+    "max_detail_links": 5,
+    "require_wuhan": false,
+    "pool": "央国企",
+    "fortune_rank_2026": null
+  },
+  {
+    "id": "casic_sanjiang",
+    "company": "航天三江（中国航天科工九院）",
+    "url": "https://www.casic.com.cn/",
+    "location": "武汉为主/部分子单位",
+    "manual_match": 89,
+    "manual_status": "applied",
+    "roles": [
+      "财务管理",
+      "审计/经营管理",
+      "数字化管理",
+      "综合管理"
+    ],
+    "max_detail_links": 5,
+    "require_wuhan": false,
+    "pool": "央国企",
+    "fortune_rank_2026": null
+  },
+  {
+    "id": "sinopec_oilmach",
+    "company": "中石化石油机械股份有限公司",
+    "url": "http://job.sinopec.com/",
+    "location": "武汉/荆州",
+    "manual_match": 77,
+    "manual_status": "watch",
+    "roles": [
+      "财务管理",
+      "资本运作",
+      "综合管理"
+    ],
+    "max_detail_links": 5,
+    "require_wuhan": false,
+    "pool": "央国企",
+    "fortune_rank_2026": null
+  },
+  {
+    "id": "csadi",
+    "company": "中南建筑设计院",
+    "url": "https://www.csadi.com.cn/",
+    "location": "武汉",
+    "manual_match": 79,
+    "manual_status": "watch",
+    "roles": [
+      "财务管理",
+      "经营管理",
+      "综合管理"
+    ],
+    "max_detail_links": 5,
+    "require_wuhan": false,
+    "pool": "央国企",
+    "fortune_rank_2026": null
+  },
+  {
+    "id": "f500_huawei",
+    "company": "华为",
+    "url": "https://career.huawei.com/cn/campus-recruitment",
+    "location": "武汉可筛",
+    "manual_match": 90,
+    "manual_status": "watch",
+    "roles": [
+      "财经类",
+      "审计类",
+      "供应链/项目管理",
+      "服务/运营"
+    ],
+    "max_detail_links": 6,
+    "require_wuhan": true,
+    "pool": "世界500强",
+    "fortune_rank_2026": 81
+  },
+  {
+    "id": "f500_lenovo",
+    "company": "联想集团",
+    "url": "https://jobs.lenovo.com/zh_CN/careers/SearchJobsChina",
+    "location": "武汉",
+    "manual_match": 88,
+    "manual_status": "watch",
+    "roles": [
+      "业务分析",
+      "财务/FP&A",
+      "项目管理",
+      "供应链运营"
+    ],
+    "max_detail_links": 6,
+    "require_wuhan": true,
+    "pool": "世界500强",
+    "fortune_rank_2026": 153
+  },
+  {
+    "id": "f500_xiaomi",
+    "company": "小米集团",
+    "url": "https://hr.xiaomi.com/website/opportunities.html",
+    "location": "武汉研发中心/武汉岗位",
+    "manual_match": 84,
+    "manual_status": "watch",
+    "roles": [
+      "产品运营",
+      "综合管理",
+      "产品经理",
+      "数据分析"
+    ],
+    "max_detail_links": 6,
+    "require_wuhan": true,
+    "pool": "世界500强",
+    "fortune_rank_2026": 232
+  },
+  {
+    "id": "f500_jd",
+    "company": "京东集团",
+    "url": "https://campus.jd.com/",
+    "location": "武汉/湖北岗位",
+    "manual_match": 87,
+    "manual_status": "watch",
+    "roles": [
+      "运营",
+      "经营分析",
+      "供应链运营",
+      "财务/结算"
+    ],
+    "max_detail_links": 6,
+    "require_wuhan": true,
+    "pool": "世界500强",
+    "fortune_rank_2026": 41
+  },
+  {
+    "id": "f500_midea",
+    "company": "美的集团",
+    "url": "https://careers.midea.com/",
+    "location": "武汉岗位需筛",
+    "manual_match": 89,
+    "manual_status": "watch",
+    "roles": [
+      "财务管理",
+      "经营分析",
+      "数字化运营",
+      "供应链管理"
+    ],
+    "max_detail_links": 6,
+    "require_wuhan": true,
+    "pool": "世界500强",
+    "fortune_rank_2026": 231
+  },
+  {
+    "id": "f500_haier",
+    "company": "海尔智家/海尔集团",
+    "url": "https://maker.haier.net/client/campus/index.html",
+    "location": "武汉可筛",
+    "manual_match": 87,
+    "manual_status": "watch",
+    "roles": [
+      "财务管理",
+      "运营管理",
+      "经营分析",
+      "项目/产品运营"
+    ],
+    "max_detail_links": 6,
+    "require_wuhan": true,
+    "pool": "世界500强",
+    "fortune_rank_2026": 378
+  },
+  {
+    "id": "f500_schneider",
+    "company": "施耐德电气",
+    "url": "https://careers.se.com/jobs?location=Wuhan%2C%20China",
+    "location": "武汉",
+    "manual_match": 95,
+    "manual_status": "open",
+    "roles": [
+      "Finance Intern",
+      "财务分析/报告",
+      "数据分析支持",
+      "业务运营"
+    ],
+    "max_detail_links": 6,
+    "require_wuhan": true,
+    "pool": "世界500强",
+    "fortune_rank_2026": 348
+  },
+  {
+    "id": "f500_siemens",
+    "company": "西门子",
+    "url": "https://www.siemens.com/zh-cn/company/jobs/",
+    "location": "武汉（官方有办公地点）",
+    "manual_match": 88,
+    "manual_status": "watch",
+    "roles": [
+      "财务/商业管理",
+      "项目商业",
+      "数字化业务",
+      "运营管理"
+    ],
+    "max_detail_links": 6,
+    "require_wuhan": true,
+    "pool": "世界500强",
+    "fortune_rank_2026": 143
+  },
+  {
+    "id": "f500_honda",
+    "company": "Honda / 东风本田",
+    "url": "https://www.dongfeng-honda.com/jobflow.shtml",
+    "location": "武汉经开区",
+    "manual_match": 88,
+    "manual_status": "watch",
+    "roles": [
+      "财务管理",
+      "经营管理",
+      "采购/供应链",
+      "数字化业务"
+    ],
+    "max_detail_links": 6,
+    "require_wuhan": true,
+    "pool": "世界500强",
+    "fortune_rank_2026": 55
+  },
+  {
+    "id": "f500_walmart",
+    "company": "沃尔玛 / 山姆会员商店",
+    "url": "https://www.walmart.cn/joinus-xy/",
+    "location": "武汉门店/会员店",
+    "manual_match": 84,
+    "manual_status": "open",
+    "roles": [
+      "人才菁英/管培",
+      "门店经营",
+      "业务运营",
+      "财务与会计"
+    ],
+    "max_detail_links": 6,
+    "require_wuhan": true,
+    "pool": "世界500强",
+    "fortune_rank_2026": 2
+  },
+  {
+    "id": "f500_sf",
+    "company": "顺丰控股",
+    "url": "https://crs-pub.sf-express.com/",
+    "location": "武汉岗位需筛",
+    "manual_match": 89,
+    "manual_status": "open",
+    "roles": [
+      "经营方向",
+      "运营方向",
+      "管培生",
+      "项目管理"
+    ],
+    "max_detail_links": 6,
+    "require_wuhan": true,
+    "pool": "世界500强",
+    "fortune_rank_2026": 372
+  },
+  {
+    "id": "f500_foxconn",
+    "company": "富士康科技集团（武汉园区）",
+    "url": "https://hr.foxconn.com.cn/",
+    "location": "武汉光谷",
+    "manual_match": 86,
+    "manual_status": "watch",
+    "roles": [
+      "财务会计",
+      "项目管理",
+      "供应链管理",
+      "市场运营"
+    ],
+    "max_detail_links": 6,
+    "require_wuhan": true,
+    "pool": "世界500强",
+    "fortune_rank_2026": 23
+  },
+  {
+    "id": "f500_fedex",
+    "company": "FedEx 联邦快递",
+    "url": "https://careers.fedex.com/jobs?search=Finance&location=Wuhan%2C%20Hubei%2C%20China",
+    "location": "武汉",
+    "manual_match": 94,
+    "manual_status": "open",
+    "roles": [
+      "共享服务财务",
+      "Finance Administrator",
+      "运营支持实习",
+      "客户/运营支持"
+    ],
+    "max_detail_links": 6,
+    "require_wuhan": true,
+    "pool": "世界500强",
+    "fortune_rank_2026": 137
+  }
+]
