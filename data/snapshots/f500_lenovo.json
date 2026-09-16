@@ -1,14 +1,12 @@
 {
-  "checked_at": "2026-09-16T00:32:02+08:00",
+  "checked_at": "2026-09-16T11:55:21+08:00",
   "final_url": "https://jobs.lenovo.com/zh_CN/careers/SearchJobsChina",
   "title": "职位搜索 | Lenovo",
-  "hash": "5d31823ee7030297d20435ddf8994f70e0a0f4035dd7238dbb929350a37a6e97",
+  "hash": "5066a5d3184e17889f3a4634b39fd0b52ff215eb38ef6ab2c5421c196f87d6d8",
   "candidate_urls": [
     "https://talent.lenovo.com.cn/",
     "https://jobs.lenovo.com/zh_CN/careers/JobDetail/81528",
-    "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2F81528",
-    "https://jobs.lenovo.com/zh_CN/careers/JobDetail/Parent-Evergreen-AI-Platform-Governance-Agent-Harness/81770",
-    "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2FParent-Evergreen-AI-Platform-Governance-Agent-Harness%2F81770"
+    "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2F81528"
   ],
   "first_seen_by_url": {
     "https://talent.lenovo.com.cn/": "2026-09-15",
