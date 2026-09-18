@@ -39,7 +39,7 @@
     "deadline_iso": "2026-09-24T16:00:00+08:00",
     "first_seen": "2026-09-14",
     "monitor": {
-      "last_checked": "2026-09-18T17:28:04+08:00",
+      "last_checked": "2026-09-19T00:02:16+08:00",
       "check_status": "ok",
       "signal": "页面可访问，未识别到明确2027信号",
       "page_changed": false,
@@ -91,12 +91,12 @@
     "deadline_iso": "2026-09-12T23:59:00+08:00",
     "first_seen": "2026-09-14",
     "monitor": {
-      "last_checked": "2026-09-18T17:28:04+08:00",
+      "last_checked": "2026-09-19T00:02:16+08:00",
       "check_status": "error",
       "signal": "本次检查失败",
       "page_changed": false,
       "found_2027": null,
-      "error": "requests=ConnectTimeout(MaxRetryError(\"HTTPSConnectionPool(host='www.whzsrc.com', port=443): Max retries exceeded with url: /hanpintong/societyProcalmationDetail/jVweF9xXvJ24Ph44nSUH92dQqK2R9tv_tO9caaet5NHx_L88CM80pV3WbjPAjbvlryxMh_C6vvehyN2toN1gng~~ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.whzsrc.com', port=443) at 0x7faa79977310>, 'Connection to www.whzsrc.com timed out. (connect timeout=22)'))\")); playwright=TimeoutError('Page.goto: Timeout 45000ms exceeded.\\nCall log:\\n  - n"
+      "error": "requests=ConnectTimeout(MaxRetryError(\"HTTPSConnectionPool(host='www.whzsrc.com', port=443): Max retries exceeded with url: /hanpintong/societyProcalmationDetail/jVweF9xXvJ24Ph44nSUH92dQqK2R9tv_tO9caaet5NHx_L88CM80pV3WbjPAjbvlryxMh_C6vvehyN2toN1gng~~ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.whzsrc.com', port=443) at 0x7f45fbb872d0>, 'Connection to www.whzsrc.com timed out. (connect timeout=22)'))\")); playwright=TimeoutError('Page.goto: Timeout 45000ms exceeded.\\nCall log:\\n  - n"
     },
     "pool": "央国企",
     "fortune_rank_2026": null,
@@ -150,7 +150,7 @@
     "deadline_iso": null,
     "first_seen": "2026-09-14",
     "monitor": {
-      "last_checked": "2026-09-18T17:28:04+08:00",
+      "last_checked": "2026-09-19T00:02:16+08:00",
       "check_status": "ok",
       "signal": "招聘页面有活跃信号",
       "page_changed": false,
@@ -206,7 +206,7 @@
     "deadline_iso": null,
     "first_seen": "2026-09-14",
     "monitor": {
-      "last_checked": "2026-09-18T17:28:04+08:00",
+      "last_checked": "2026-09-19T00:02:16+08:00",
       "check_status": "ok",
       "signal": "页面可访问，未识别到明确2027信号",
       "page_changed": false,
@@ -262,13 +262,12 @@
     "deadline_iso": null,
     "first_seen": "2026-09-14",
     "monitor": {
-      "last_checked": "2026-09-18T17:28:04+08:00",
-      "check_status": "ok",
-      "signal": "页面可访问，未识别到明确2027信号",
+      "last_checked": "2026-09-19T00:02:16+08:00",
+      "check_status": "error",
+      "signal": "本次检查失败",
       "page_changed": false,
-      "found_2027": false,
-      "engine": "playwright",
-      "error": null
+      "found_2027": null,
+      "error": "requests=None; playwright=TimeoutError('Page.goto: Timeout 45000ms exceeded.\\nCall log:\\n  - navigating to \"https://cjcyjt-campus.zhiye.com/\", waiting until \"networkidle\"\\n')"
     },
     "pool": "央国企",
     "fortune_rank_2026": null,
@@ -318,7 +317,7 @@
     "deadline_iso": null,
     "first_seen": "2026-09-14",
     "monitor": {
-      "last_checked": "2026-09-18T17:28:04+08:00",
+      "last_checked": "2026-09-19T00:02:16+08:00",
       "check_status": "ok",
       "signal": "页面可访问，未识别到明确2027信号",
       "page_changed": false,
@@ -370,12 +369,12 @@
     "deadline_iso": null,
     "first_seen": "2026-09-14",
     "monitor": {
-      "last_checked": "2026-09-18T17:28:04+08:00",
+      "last_checked": "2026-09-19T00:02:16+08:00",
       "check_status": "error",
       "signal": "本次检查失败",
       "page_changed": false,
       "found_2027": null,
-      "error": "requests=ConnectTimeout(MaxRetryError(\"HTTPConnectionPool(host='zp.hbjttz.com', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='zp.hbjttz.com', port=80) at 0x7faa798b1790>, 'Connection to zp.hbjttz.com timed out. (connect timeout=22)'))\")); playwright=TimeoutError('Page.goto: Timeout 45000ms exceeded.\\nCall log:\\n  - navigating to \"http://zp.hbjttz.com/\", waiting until \"networkidle\"\\n')"
+      "error": "requests=ConnectTimeout(MaxRetryError(\"HTTPConnectionPool(host='zp.hbjttz.com', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='zp.hbjttz.com', port=80) at 0x7f45fb75ff50>, 'Connection to zp.hbjttz.com timed out. (connect timeout=22)'))\")); playwright=TimeoutError('Page.goto: Timeout 45000ms exceeded.\\nCall log:\\n  - navigating to \"http://zp.hbjttz.com/\", waiting until \"networkidle\"\\n')"
     },
     "pool": "央国企",
     "fortune_rank_2026": null,
@@ -421,7 +420,7 @@
     "deadline_iso": null,
     "first_seen": "2026-09-14",
     "monitor": {
-      "last_checked": "2026-09-18T17:28:04+08:00",
+      "last_checked": "2026-09-19T00:02:16+08:00",
       "check_status": "ok",
       "signal": "页面可访问，未识别到明确2027信号",
       "page_changed": false,
@@ -473,7 +472,7 @@
     "deadline_iso": null,
     "first_seen": "2026-09-14",
     "monitor": {
-      "last_checked": "2026-09-18T17:28:04+08:00",
+      "last_checked": "2026-09-19T00:02:16+08:00",
       "check_status": "ok",
       "signal": "页面可访问，未识别到明确2027信号",
       "page_changed": true,
@@ -525,7 +524,7 @@
     "deadline_iso": null,
     "first_seen": "2026-09-14",
     "monitor": {
-      "last_checked": "2026-09-18T17:28:04+08:00",
+      "last_checked": "2026-09-19T00:02:16+08:00",
       "check_status": "error",
       "signal": "本次检查失败",
       "page_changed": false,
@@ -576,7 +575,7 @@
     "deadline_iso": null,
     "first_seen": "2026-09-14",
     "monitor": {
-      "last_checked": "2026-09-18T17:28:04+08:00",
+      "last_checked": "2026-09-19T00:02:16+08:00",
       "check_status": "ok",
       "signal": "页面可访问，未识别到明确2027信号",
       "page_changed": false,
@@ -628,10 +627,10 @@
     "deadline_iso": null,
     "first_seen": "2026-09-14",
     "monitor": {
-      "last_checked": "2026-09-18T17:28:04+08:00",
+      "last_checked": "2026-09-19T00:02:16+08:00",
       "check_status": "ok",
       "signal": "页面可访问，未识别到明确2027信号",
-      "page_changed": true,
+      "page_changed": false,
       "found_2027": false,
       "engine": "requests",
       "error": null
@@ -680,7 +679,7 @@
     "deadline_iso": null,
     "first_seen": "2026-09-14",
     "monitor": {
-      "last_checked": "2026-09-18T17:28:04+08:00",
+      "last_checked": "2026-09-19T00:02:16+08:00",
       "check_status": "error",
       "signal": "本次检查失败",
       "page_changed": false,
@@ -735,12 +734,12 @@
     "deadline_iso": null,
     "first_seen": "2026-09-14",
     "monitor": {
-      "last_checked": "2026-09-18T17:28:04+08:00",
+      "last_checked": "2026-09-19T00:02:16+08:00",
       "check_status": "error",
       "signal": "本次检查失败",
       "page_changed": false,
       "found_2027": null,
-      "error": "requests=ConnectTimeout(MaxRetryError(\"HTTPSConnectionPool(host='www.whzsrc.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.whzsrc.com', port=443) at 0x7faa7970ce10>, 'Connection to www.whzsrc.com timed out. (connect timeout=22)'))\")); playwright=TimeoutError('Page.goto: Timeout 45000ms exceeded.\\nCall log:\\n  - navigating to \"https://www.whzsrc.com/\", waiting until \"networkidle\"\\n')"
+      "error": "requests=ConnectTimeout(MaxRetryError(\"HTTPSConnectionPool(host='www.whzsrc.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.whzsrc.com', port=443) at 0x7f45fb691b10>, 'Connection to www.whzsrc.com timed out. (connect timeout=22)'))\")); playwright=TimeoutError('Page.goto: Timeout 45000ms exceeded.\\nCall log:\\n  - navigating to \"https://www.whzsrc.com/\", waiting until \"networkidle\"\\n')"
     },
     "pool": "央国企",
     "fortune_rank_2026": null,
@@ -786,7 +785,7 @@
     "deadline_iso": null,
     "first_seen": "2026-09-14",
     "monitor": {
-      "last_checked": "2026-09-18T17:28:04+08:00",
+      "last_checked": "2026-09-19T00:02:16+08:00",
       "check_status": "ok",
       "signal": "页面可访问，未识别到明确2027信号",
       "page_changed": false,
@@ -838,7 +837,7 @@
     "deadline_iso": null,
     "first_seen": "2026-09-14",
     "monitor": {
-      "last_checked": "2026-09-18T17:28:04+08:00",
+      "last_checked": "2026-09-19T00:02:16+08:00",
       "check_status": "ok",
       "signal": "页面可访问，未识别到明确2027信号",
       "page_changed": false,
@@ -890,7 +889,7 @@
     "deadline_iso": null,
     "first_seen": "2026-09-14",
     "monitor": {
-      "last_checked": "2026-09-18T17:28:04+08:00",
+      "last_checked": "2026-09-19T00:02:16+08:00",
       "check_status": "error",
       "signal": "本次检查失败",
       "page_changed": false,
@@ -941,7 +940,7 @@
     "deadline_iso": null,
     "first_seen": "2026-09-14",
     "monitor": {
-      "last_checked": "2026-09-18T17:28:04+08:00",
+      "last_checked": "2026-09-19T00:02:16+08:00",
       "check_status": "ok",
       "signal": "页面可访问，未识别到明确2027信号",
       "page_changed": false,
@@ -993,12 +992,12 @@
     "deadline_iso": null,
     "first_seen": "2026-09-14",
     "monitor": {
-      "last_checked": "2026-09-18T17:28:04+08:00",
+      "last_checked": "2026-09-19T00:02:16+08:00",
       "check_status": "error",
       "signal": "本次检查失败",
       "page_changed": false,
       "found_2027": null,
-      "error": "requests=ConnectTimeout(MaxRetryError(\"HTTPSConnectionPool(host='www.whzsrc.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.whzsrc.com', port=443) at 0x7faa79867550>, 'Connection to www.whzsrc.com timed out. (connect timeout=22)'))\")); playwright=TimeoutError('Page.goto: Timeout 45000ms exceeded.\\nCall log:\\n  - navigating to \"https://www.whzsrc.com/\", waiting until \"networkidle\"\\n')"
+      "error": "requests=ConnectTimeout(MaxRetryError(\"HTTPSConnectionPool(host='www.whzsrc.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.whzsrc.com', port=443) at 0x7f45fb533890>, 'Connection to www.whzsrc.com timed out. (connect timeout=22)'))\")); playwright=TimeoutError('Page.goto: Timeout 45000ms exceeded.\\nCall log:\\n  - navigating to \"https://www.whzsrc.com/\", waiting until \"networkidle\"\\n')"
     },
     "pool": "央国企",
     "fortune_rank_2026": null,
@@ -1044,7 +1043,7 @@
     "deadline_iso": null,
     "first_seen": "2026-09-14",
     "monitor": {
-      "last_checked": "2026-09-18T17:28:04+08:00",
+      "last_checked": "2026-09-19T00:02:16+08:00",
       "check_status": "ok",
       "signal": "页面可访问，未识别到明确2027信号",
       "page_changed": false,
@@ -1096,7 +1095,7 @@
     "deadline_iso": null,
     "first_seen": "2026-09-14",
     "monitor": {
-      "last_checked": "2026-09-18T17:28:04+08:00",
+      "last_checked": "2026-09-19T00:02:16+08:00",
       "check_status": "ok",
       "signal": "页面可访问，未识别到明确2027信号",
       "page_changed": false,
@@ -1152,12 +1151,12 @@
     "deadline_iso": null,
     "first_seen": "2026-09-14",
     "monitor": {
-      "last_checked": "2026-09-18T17:28:04+08:00",
+      "last_checked": "2026-09-19T00:02:16+08:00",
       "check_status": "error",
       "signal": "本次检查失败",
       "page_changed": false,
       "found_2027": null,
-      "error": "requests=ConnectTimeout(MaxRetryError(\"HTTPConnectionPool(host='www.whggjk.com', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='www.whggjk.com', port=80) at 0x7faa79433910>, 'Connection to www.whggjk.com timed out. (connect timeout=22)'))\")); playwright=TimeoutError('Page.goto: Timeout 45000ms exceeded.\\nCall log:\\n  - navigating to \"http://www.whggjk.com/\", waiting until \"networkidle\"\\n')"
+      "error": "requests=ConnectTimeout(MaxRetryError(\"HTTPConnectionPool(host='www.whggjk.com', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='www.whggjk.com', port=80) at 0x7f45fb5e7790>, 'Connection to www.whggjk.com timed out. (connect timeout=22)'))\")); playwright=TimeoutError('Page.goto: Timeout 45000ms exceeded.\\nCall log:\\n  - navigating to \"http://www.whggjk.com/\", waiting until \"networkidle\"\\n')"
     },
     "pool": "央国企",
     "fortune_rank_2026": null,
@@ -1203,7 +1202,7 @@
     "deadline_iso": null,
     "first_seen": "2026-09-14",
     "monitor": {
-      "last_checked": "2026-09-18T17:28:04+08:00",
+      "last_checked": "2026-09-19T00:02:16+08:00",
       "check_status": "ok",
       "signal": "招聘页面有活跃信号",
       "page_changed": false,
@@ -1255,7 +1254,7 @@
     "deadline_iso": null,
     "first_seen": "2026-09-14",
     "monitor": {
-      "last_checked": "2026-09-18T17:28:04+08:00",
+      "last_checked": "2026-09-19T00:02:16+08:00",
       "check_status": "ok",
       "signal": "页面可访问，未识别到明确2027信号",
       "page_changed": false,
@@ -1311,7 +1310,7 @@
     "deadline_iso": null,
     "first_seen": "2026-09-14",
     "monitor": {
-      "last_checked": "2026-09-18T17:28:04+08:00",
+      "last_checked": "2026-09-19T00:02:16+08:00",
       "check_status": "ok",
       "signal": "页面可访问，未识别到明确2027信号",
       "page_changed": false,
@@ -1363,7 +1362,7 @@
     "deadline_iso": null,
     "first_seen": "2026-09-14",
     "monitor": {
-      "last_checked": "2026-09-18T17:28:04+08:00",
+      "last_checked": "2026-09-19T00:02:16+08:00",
       "check_status": "ok",
       "signal": "页面可访问，未识别到明确2027信号",
       "page_changed": false,
@@ -1419,7 +1418,7 @@
     "deadline_iso": null,
     "first_seen": "2026-09-14",
     "monitor": {
-      "last_checked": "2026-09-18T17:28:04+08:00",
+      "last_checked": "2026-09-19T00:02:16+08:00",
       "check_status": "ok",
       "signal": "页面可访问，未识别到明确2027信号",
       "page_changed": false,
@@ -1475,13 +1474,12 @@
     "deadline_iso": null,
     "first_seen": "2026-09-14",
     "monitor": {
-      "last_checked": "2026-09-18T17:28:04+08:00",
-      "check_status": "ok",
-      "signal": "页面可访问，未识别到明确2027信号",
+      "last_checked": "2026-09-19T00:02:16+08:00",
+      "check_status": "error",
+      "signal": "本次检查失败",
       "page_changed": false,
-      "found_2027": false,
-      "engine": "requests",
-      "error": null
+      "found_2027": null,
+      "error": "requests=ConnectionError(ProtocolError('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))); playwright=TimeoutError('Page.goto: Timeout 45000ms exceeded.\\nCall log:\\n  - navigating to \"https://www.ctg.com.cn/\", waiting until \"networkidle\"\\n')"
     },
     "pool": "央国企",
     "fortune_rank_2026": null,
@@ -1527,7 +1525,7 @@
     "deadline_iso": null,
     "first_seen": "2026-09-14",
     "monitor": {
-      "last_checked": "2026-09-18T17:28:04+08:00",
+      "last_checked": "2026-09-19T00:02:16+08:00",
       "check_status": "ok",
       "signal": "页面可访问，未识别到明确2027信号",
       "page_changed": false,
@@ -1579,7 +1577,7 @@
     "deadline_iso": "2026-09-02T23:59:00+08:00",
     "first_seen": "2026-09-14",
     "monitor": {
-      "last_checked": "2026-09-18T17:28:04+08:00",
+      "last_checked": "2026-09-19T00:02:16+08:00",
       "check_status": "ok",
       "signal": "页面可访问，未识别到明确2027信号",
       "page_changed": false,
@@ -1631,7 +1629,7 @@
     "deadline_iso": null,
     "first_seen": "2026-09-14",
     "monitor": {
-      "last_checked": "2026-09-18T17:28:04+08:00",
+      "last_checked": "2026-09-19T00:02:16+08:00",
       "check_status": "ok",
       "signal": "页面可访问，未识别到明确2027信号",
       "page_changed": false,
@@ -1679,7 +1677,7 @@
     "deadline_iso": "2026-10-15T23:59:00+08:00",
     "first_seen": "2026-09-14",
     "monitor": {
-      "last_checked": "2026-09-18T17:28:04+08:00",
+      "last_checked": "2026-09-19T00:02:16+08:00",
       "check_status": "ok",
       "signal": "页面可访问，未识别到明确2027信号",
       "page_changed": false,
@@ -1731,7 +1729,7 @@
     "deadline_iso": null,
     "first_seen": "2026-09-14",
     "monitor": {
-      "last_checked": "2026-09-18T17:28:04+08:00",
+      "last_checked": "2026-09-19T00:02:16+08:00",
       "check_status": "ok",
       "signal": "页面可访问，未识别到明确2027信号",
       "page_changed": false,
@@ -1783,13 +1781,12 @@
     "deadline_iso": null,
     "first_seen": "2026-09-14",
     "monitor": {
-      "last_checked": "2026-09-18T17:28:04+08:00",
-      "check_status": "ok",
-      "signal": "页面可访问，未识别到明确2027信号",
+      "last_checked": "2026-09-19T00:02:16+08:00",
+      "check_status": "error",
+      "signal": "本次检查失败",
       "page_changed": false,
-      "found_2027": false,
-      "engine": "requests",
-      "error": null
+      "found_2027": null,
+      "error": "requests=ConnectionError(MaxRetryError('HTTPSConnectionPool(host=\\'www.cict.com\\', port=443): Max retries exceeded with url: /p1/JoinRecruitment.jhtml (Caused by NewConnectionError(\"HTTPSConnection(host=\\'www.cict.com\\', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))')); playwright=TimeoutError('Page.goto: Timeout 45000ms exceeded.\\nCall log:\\n  - navigating to \"https://www.cict.com/p1/JoinRecruitment.jhtml\", waiting until \"networkidle\"\\n')"
     },
     "pool": "央国企",
     "fortune_rank_2026": null,
@@ -1835,7 +1832,7 @@
     "deadline_iso": null,
     "first_seen": "2026-09-14",
     "monitor": {
-      "last_checked": "2026-09-18T17:28:04+08:00",
+      "last_checked": "2026-09-19T00:02:16+08:00",
       "check_status": "error",
       "signal": "本次检查失败",
       "page_changed": false,
@@ -1886,7 +1883,7 @@
     "deadline_iso": "2026-09-07T23:59:00+08:00",
     "first_seen": "2026-09-14",
     "monitor": {
-      "last_checked": "2026-09-18T17:28:04+08:00",
+      "last_checked": "2026-09-19T00:02:16+08:00",
       "check_status": "error",
       "signal": "本次检查失败",
       "page_changed": false,
@@ -1937,12 +1934,12 @@
     "deadline_iso": null,
     "first_seen": "2026-09-14",
     "monitor": {
-      "last_checked": "2026-09-18T17:28:04+08:00",
+      "last_checked": "2026-09-19T00:02:16+08:00",
       "check_status": "error",
       "signal": "本次检查失败",
       "page_changed": false,
       "found_2027": null,
-      "error": "requests=ReadTimeout(ReadTimeoutError(\"HTTPConnectionPool(host='zhaopin.cscec3b.com.cn', port=80): Read timed out. (read timeout=22)\")); playwright=TimeoutError('Page.goto: Timeout 45000ms exceeded.\\nCall log:\\n  - navigating to \"http://zhaopin.cscec3b.com.cn/\", waiting until \"networkidle\"\\n')"
+      "error": "requests=ConnectionError(ProtocolError('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))); playwright=Error('Page.goto: net::ERR_EMPTY_RESPONSE at http://zhaopin.cscec3b.com.cn/\\nCall log:\\n  - navigating to \"http://zhaopin.cscec3b.com.cn/\", waiting until \"networkidle\"\\n')"
     },
     "pool": "央国企",
     "fortune_rank_2026": null,
@@ -1984,7 +1981,7 @@
     "deadline_iso": null,
     "first_seen": "2026-09-14",
     "monitor": {
-      "last_checked": "2026-09-18T17:28:04+08:00",
+      "last_checked": "2026-09-19T00:02:16+08:00",
       "check_status": "error",
       "signal": "本次检查失败",
       "page_changed": false,
@@ -2031,10 +2028,10 @@
     "deadline_iso": null,
     "first_seen": "2026-09-14",
     "monitor": {
-      "last_checked": "2026-09-18T17:28:04+08:00",
+      "last_checked": "2026-09-19T00:02:16+08:00",
       "check_status": "ok",
       "signal": "页面可访问，未识别到明确2027信号",
-      "page_changed": true,
+      "page_changed": false,
       "found_2027": false,
       "engine": "requests",
       "error": null
@@ -2079,7 +2076,7 @@
     "deadline_iso": null,
     "first_seen": "2026-09-14",
     "monitor": {
-      "last_checked": "2026-09-18T17:28:04+08:00",
+      "last_checked": "2026-09-19T00:02:16+08:00",
       "check_status": "ok",
       "signal": "页面可访问，未识别到明确2027信号",
       "page_changed": false,
@@ -2127,7 +2124,7 @@
     "deadline_iso": null,
     "first_seen": "2026-09-14",
     "monitor": {
-      "last_checked": "2026-09-18T17:28:04+08:00",
+      "last_checked": "2026-09-19T00:02:16+08:00",
       "check_status": "error",
       "signal": "本次检查失败",
       "page_changed": false,
@@ -2174,7 +2171,7 @@
     "deadline_iso": "2026-09-11T23:59:00+08:00",
     "first_seen": "2026-09-14",
     "monitor": {
-      "last_checked": "2026-09-18T17:28:04+08:00",
+      "last_checked": "2026-09-19T00:02:16+08:00",
       "check_status": "ok",
       "signal": "页面可访问，未识别到明确2027信号",
       "page_changed": false,
@@ -2222,7 +2219,7 @@
     "deadline_iso": "2026-09-30T23:59:00+08:00",
     "first_seen": "2026-09-14",
     "monitor": {
-      "last_checked": "2026-09-18T17:28:04+08:00",
+      "last_checked": "2026-09-19T00:02:16+08:00",
       "check_status": "ok",
       "signal": "页面可访问，未识别到明确2027信号",
       "page_changed": false,
@@ -2274,10 +2271,10 @@
     "deadline_iso": null,
     "first_seen": "2026-09-14",
     "monitor": {
-      "last_checked": "2026-09-18T17:28:04+08:00",
+      "last_checked": "2026-09-19T00:02:16+08:00",
       "check_status": "ok",
       "signal": "页面可访问，未识别到明确2027信号",
-      "page_changed": true,
+      "page_changed": false,
       "found_2027": false,
       "engine": "playwright",
       "error": null
@@ -2326,7 +2323,7 @@
     "deadline_iso": null,
     "first_seen": "2026-09-14",
     "monitor": {
-      "last_checked": "2026-09-18T17:28:04+08:00",
+      "last_checked": "2026-09-19T00:02:16+08:00",
       "check_status": "ok",
       "signal": "页面可访问，未识别到明确2027信号",
       "page_changed": false,
@@ -2374,7 +2371,7 @@
     "deadline_iso": null,
     "first_seen": "2026-09-14",
     "monitor": {
-      "last_checked": "2026-09-18T17:28:04+08:00",
+      "last_checked": "2026-09-19T00:02:16+08:00",
       "check_status": "error",
       "signal": "本次检查失败",
       "page_changed": false,
@@ -2425,11 +2422,11 @@
     "deadline_iso": null,
     "first_seen": "2026-09-14",
     "monitor": {
-      "last_checked": "2026-09-18T17:28:04+08:00",
+      "last_checked": "2026-09-19T00:02:16+08:00",
       "check_status": "ok",
-      "signal": "发现2027校招/招聘信号",
-      "page_changed": false,
-      "found_2027": true,
+      "signal": "页面可访问，未识别到明确2027信号",
+      "page_changed": true,
+      "found_2027": false,
       "engine": "playwright",
       "error": null
     },
@@ -2477,7 +2474,7 @@
     "deadline_iso": null,
     "first_seen": "2026-09-14",
     "monitor": {
-      "last_checked": "2026-09-18T17:28:04+08:00",
+      "last_checked": "2026-09-19T00:02:16+08:00",
       "check_status": "ok",
       "signal": "发现2027校招/招聘信号",
       "page_changed": false,
@@ -2529,7 +2526,7 @@
     "deadline_iso": null,
     "first_seen": "2026-09-14",
     "monitor": {
-      "last_checked": "2026-09-18T17:28:04+08:00",
+      "last_checked": "2026-09-19T00:02:16+08:00",
       "check_status": "ok",
       "signal": "页面可访问，未识别到明确2027信号",
       "page_changed": false,
@@ -2632,7 +2629,7 @@
     "deadline_iso": null,
     "first_seen": "2026-09-14",
     "monitor": {
-      "last_checked": "2026-09-18T17:28:04+08:00",
+      "last_checked": "2026-09-19T00:02:16+08:00",
       "check_status": "error",
       "signal": "本次检查失败",
       "page_changed": false,
@@ -2679,7 +2676,7 @@
     "deadline_iso": null,
     "first_seen": "2026-09-14",
     "monitor": {
-      "last_checked": "2026-09-18T17:28:04+08:00",
+      "last_checked": "2026-09-19T00:02:16+08:00",
       "check_status": "ok",
       "signal": "页面可访问，未识别到明确2027信号",
       "page_changed": false,
@@ -2727,13 +2724,12 @@
     "deadline_iso": null,
     "first_seen": "2026-09-14",
     "monitor": {
-      "last_checked": "2026-09-18T17:28:04+08:00",
-      "check_status": "ok",
-      "signal": "页面可访问，未识别到明确2027信号",
+      "last_checked": "2026-09-19T00:02:16+08:00",
+      "check_status": "error",
+      "signal": "本次检查失败",
       "page_changed": false,
-      "found_2027": false,
-      "engine": "playwright",
-      "error": null
+      "found_2027": null,
+      "error": "requests=SSLError(MaxRetryError(\"HTTPSConnectionPool(host='www.csadi.com.cn', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1016)')))\")); playwright=TimeoutError('Page.goto: Timeout 45000ms exceeded.\\nCall log:\\n  - navigating to \"https://www.csadi.com.cn/\", waiting until \"networkidle\"\\n')"
     },
     "pool": "央国企",
     "fortune_rank_2026": null,
@@ -2782,7 +2778,7 @@
     "deadline_iso": null,
     "first_seen": "2026-09-14",
     "monitor": {
-      "last_checked": "2026-09-18T17:28:04+08:00",
+      "last_checked": "2026-09-19T00:02:16+08:00",
       "check_status": "ok",
       "signal": "发现2027校招/招聘信号",
       "page_changed": false,
@@ -2834,10 +2830,10 @@
     "deadline_iso": null,
     "first_seen": "2026-09-14",
     "monitor": {
-      "last_checked": "2026-09-18T17:28:04+08:00",
+      "last_checked": "2026-09-19T00:02:16+08:00",
       "check_status": "ok",
       "signal": "页面可访问，未识别到明确2027信号",
-      "page_changed": true,
+      "page_changed": false,
       "found_2027": false,
       "engine": "requests",
       "error": null
@@ -2886,7 +2882,7 @@
     "deadline_iso": null,
     "first_seen": "2026-09-14",
     "monitor": {
-      "last_checked": "2026-09-18T17:28:04+08:00",
+      "last_checked": "2026-09-19T00:02:16+08:00",
       "check_status": "ok",
       "signal": "招聘页面有活跃信号",
       "page_changed": false,
@@ -2938,7 +2934,7 @@
     "deadline_iso": null,
     "first_seen": "2026-09-14",
     "monitor": {
-      "last_checked": "2026-09-18T17:28:04+08:00",
+      "last_checked": "2026-09-19T00:02:16+08:00",
       "check_status": "ok",
       "signal": "发现2027校招/招聘信号",
       "page_changed": false,
@@ -2990,7 +2986,7 @@
     "deadline_iso": null,
     "first_seen": "2026-09-14",
     "monitor": {
-      "last_checked": "2026-09-18T17:28:04+08:00",
+      "last_checked": "2026-09-19T00:02:16+08:00",
       "check_status": "ok",
       "signal": "发现2027校招/招聘信号",
       "page_changed": true,
@@ -3042,7 +3038,7 @@
     "deadline_iso": null,
     "first_seen": "2026-09-14",
     "monitor": {
-      "last_checked": "2026-09-18T17:28:04+08:00",
+      "last_checked": "2026-09-19T00:02:16+08:00",
       "check_status": "ok",
       "signal": "发现2027校招/招聘信号",
       "page_changed": false,
@@ -3094,7 +3090,7 @@
     "deadline_iso": null,
     "first_seen": "2026-09-14",
     "monitor": {
-      "last_checked": "2026-09-18T17:28:04+08:00",
+      "last_checked": "2026-09-19T00:02:16+08:00",
       "check_status": "ok",
       "signal": "页面可访问，未识别到明确2027信号",
       "page_changed": false,
@@ -3146,7 +3142,7 @@
     "deadline_iso": null,
     "first_seen": "2026-09-14",
     "monitor": {
-      "last_checked": "2026-09-18T17:28:04+08:00",
+      "last_checked": "2026-09-19T00:02:16+08:00",
       "check_status": "ok",
       "signal": "页面可访问，未识别到明确2027信号",
       "page_changed": false,
@@ -3198,7 +3194,7 @@
     "deadline_iso": null,
     "first_seen": "2026-09-14",
     "monitor": {
-      "last_checked": "2026-09-18T17:28:04+08:00",
+      "last_checked": "2026-09-19T00:02:16+08:00",
       "check_status": "ok",
       "signal": "页面可访问，未识别到明确2027信号",
       "page_changed": false,
@@ -3250,7 +3246,7 @@
     "deadline_iso": null,
     "first_seen": "2026-09-14",
     "monitor": {
-      "last_checked": "2026-09-18T17:28:04+08:00",
+      "last_checked": "2026-09-19T00:02:16+08:00",
       "check_status": "ok",
       "signal": "招聘页面有活跃信号",
       "page_changed": false,
@@ -3302,10 +3298,10 @@
     "deadline_iso": null,
     "first_seen": "2026-09-14",
     "monitor": {
-      "last_checked": "2026-09-18T17:28:04+08:00",
+      "last_checked": "2026-09-19T00:02:16+08:00",
       "check_status": "ok",
       "signal": "发现2027校招/招聘信号",
-      "page_changed": false,
+      "page_changed": true,
       "found_2027": true,
       "engine": "playwright",
       "error": null
@@ -3354,7 +3350,7 @@
     "deadline_iso": null,
     "first_seen": "2026-09-14",
     "monitor": {
-      "last_checked": "2026-09-18T17:28:04+08:00",
+      "last_checked": "2026-09-19T00:02:16+08:00",
       "check_status": "ok",
       "signal": "页面可访问，未识别到明确2027信号",
       "page_changed": false,
@@ -3406,7 +3402,7 @@
     "deadline_iso": null,
     "first_seen": "2026-09-14",
     "monitor": {
-      "last_checked": "2026-09-18T17:28:04+08:00",
+      "last_checked": "2026-09-19T00:02:16+08:00",
       "check_status": "ok",
       "signal": "页面可访问，未识别到明确2027信号",
       "page_changed": true,
