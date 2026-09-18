@@ -1,10 +1,10 @@
 {
-  "checked_at": "2026-09-18T00:30:44+08:00",
+  "checked_at": "2026-09-18T11:47:38+08:00",
   "final_url": "https://www.cr11g.com.cn/",
   "title": "中铁十一局集团有限公司",
-  "hash": "10abd163bf5879730fec9d942f644c2495ddcd36498e050d9597d94b9883035d",
+  "hash": "3d6f454dd7c429cc3bfaf74e18f7c2a9141693a8669df3a68a198c4e470fee8f",
   "candidate_urls": [
-    "https://www.cr11g.com.cn/col/col1941/art/2026/art_b54b078a25304dd0910365e3f77dab03.html",
+    "https://www.cr11g.com.cn/col/col1941/art/2026/art_54c97c74e2db4f3ba0b426dc291542bd.html",
     "https://www.cr11g.com.cn/col1947/art/2021/art_1947_3418148.html",
     "https://www.cr11g.com.cn/col1947/art/2020/art_1947_3045460.html",
     "https://www.cr11g.com.cn/col1955/art/2022/art_1955_3980560.html",
@@ -17,6 +17,7 @@
     "https://www.cr11g.com.cn/col1947/art/2021/art_1947_3418148.html": "2026-09-15",
     "https://www.cr11g.com.cn/col1947/art/2020/art_1947_3045460.html": "2026-09-15",
     "https://www.cr11g.com.cn/col1955/art/2022/art_1955_3980560.html": "2026-09-16",
-    "https://www.gov.cn/yaowen/liebiao/202608/content_7079380.htm": "2026-09-16"
+    "https://www.gov.cn/yaowen/liebiao/202608/content_7079380.htm": "2026-09-16",
+    "https://www.cr11g.com.cn/col/col1941/art/2026/art_54c97c74e2db4f3ba0b426dc291542bd.html": "2026-09-18"
   }
 }
