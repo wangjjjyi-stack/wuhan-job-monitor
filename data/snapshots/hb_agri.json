@@ -1,13 +1,12 @@
 {
-  "checked_at": "2026-09-25T18:03:23+08:00",
+  "checked_at": "2026-09-26T00:49:24+08:00",
   "final_url": "http://www.hbnyfzjt.com/",
   "title": "湖北农业发展集团",
-  "hash": "366beba3bff4c6942156219be4c12f179ab87e39a57044f39be4a965000be1d7",
+  "hash": "2cbd82ab0dc74ebf5924761350754c5457b14a67b57f8e8951465caf5952ed83",
   "candidate_urls": [
     "http://www.hbnyfzjt.com/cyfz/",
     "http://www.hbnyfzjt.com/cyfz/nfcpjg/",
-    "http://www.hbnyfzjt.com/xwzx/jtyw/202609/t20260924_179933.shtml",
-    "http://www.hbnyfzjt.com/xwzx/jtyw/202609/t20260924_179931.shtml",
+    "http://www.hbnyfzjt.com/xwzx/jtyw/202609/t20260925_179954.shtml",
     "http://www.hbcbly.com"
   ],
   "first_seen_by_url": {
@@ -22,6 +21,7 @@
     "http://www.hbnyfzjt.com/xwzx/jtyw/202609/t20260922_179805.shtml": "2026-09-22",
     "http://www.hbnyfzjt.com/xwzx/jtyw/202609/t20260923_179856.shtml": "2026-09-24",
     "http://www.hbnyfzjt.com/xwzx/jtyw/202609/t20260924_179933.shtml": "2026-09-25",
-    "http://www.hbnyfzjt.com/xwzx/jtyw/202609/t20260924_179931.shtml": "2026-09-25"
+    "http://www.hbnyfzjt.com/xwzx/jtyw/202609/t20260924_179931.shtml": "2026-09-25",
+    "http://www.hbnyfzjt.com/xwzx/jtyw/202609/t20260925_179954.shtml": "2026-09-26"
   }
 }
