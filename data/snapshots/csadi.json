@@ -1,20 +1,21 @@
 {
-  "checked_at": "2026-09-28T12:21:15+08:00",
+  "checked_at": "2026-09-29T03:24:16+08:00",
   "final_url": "https://www.csadi.com.cn/",
   "title": "中南建筑设计院股份有限公司",
-  "hash": "9ec67da3ea30a96450fa5eae7187147dba15b40c9a30a68e7e52cadd4cf3970a",
+  "hash": "7919beac4a3e0d3c1a1e86e66e93c57f206f65f96b0ceeabf8481bd1a1728dbd",
   "candidate_urls": [
+    "https://www.csadi.com.cn/xwzx/gsxw/202609/t20260928_180052.html",
     "https://www.csadi.com.cn/xwzx/gsxw/202504/t20250402_148940.html",
     "https://www.csadi.com.cn/fwly/xmgl/",
     "https://www.csadi.com.cn/xwzx/gsxw/202503/t20250310_147292.html",
-    "https://www.csadi.com.cn/fwly/csgh/",
-    "https://www.csadi.com.cn/xmzs/"
+    "https://www.csadi.com.cn/fwly/csgh/"
   ],
   "first_seen_by_url": {
     "https://www.csadi.com.cn/xwzx/gsxw/202504/t20250402_148940.html": "2026-09-16",
     "https://www.csadi.com.cn/fwly/xmgl/": "2026-09-16",
     "https://www.csadi.com.cn/xwzx/gsxw/202503/t20250310_147292.html": "2026-09-16",
     "https://www.csadi.com.cn/fwly/csgh/": "2026-09-16",
-    "https://www.csadi.com.cn/xmzs/": "2026-09-16"
+    "https://www.csadi.com.cn/xmzs/": "2026-09-16",
+    "https://www.csadi.com.cn/xwzx/gsxw/202609/t20260928_180052.html": "2026-09-29"
   }
 }
