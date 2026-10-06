@@ -1,8 +1,12 @@
 {
-  "checked_at": "2026-10-05T20:06:51+08:00",
+  "checked_at": "2026-10-06T13:28:35+08:00",
   "final_url": "https://careers.fedex.com/jobs?search=Finance&location=Wuhan%2C%20Hubei%2C%20China",
   "title": "Search Jobs | FedEx Careers",
-  "hash": "cad418773149b9b9cf64d05555cdd202578ad84f814cb125552217a84d21693d",
-  "candidate_urls": [],
-  "first_seen_by_url": {}
+  "hash": "4ba8ea42e71564cd5df7aa9a21d59bda81bb6f65719556c789fec1afc7f8e105",
+  "candidate_urls": [
+    "https://careers.fedex.com/quality-audit-lead-analyst/job/85A48053DEBBED549A77B2027BF0E6D4"
+  ],
+  "first_seen_by_url": {
+    "https://careers.fedex.com/quality-audit-lead-analyst/job/85A48053DEBBED549A77B2027BF0E6D4": "2026-10-06"
+  }
 }
