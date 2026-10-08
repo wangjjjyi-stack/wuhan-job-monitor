@@ -1,11 +1,9 @@
 {
-  "checked_at": "2026-10-08T02:38:08+08:00",
+  "checked_at": "2026-10-08T13:08:04+08:00",
   "final_url": "https://careers.fedex.com/jobs?search=Finance&location=Wuhan%2C%20Hubei%2C%20China",
   "title": "Search Jobs | FedEx Careers",
-  "hash": "522211e660f88b8603cc01359ac273a4e553178ea52c69f2a93618abaca198bf",
-  "candidate_urls": [
-    "https://careers.fedex.com/sales-intern-summer-2027-seattle-wa/job/P25-384381-1"
-  ],
+  "hash": "986184e337b054bd27f315cca19ffd6b6432d246ce71f2439c38175777aa9870",
+  "candidate_urls": [],
   "first_seen_by_url": {
     "https://careers.fedex.com/quality-audit-lead-analyst/job/85A48053DEBBED549A77B2027BF0E6D4": "2026-10-06",
     "https://careers.fedex.com/sales-intern-summer-2027-seattle-wa/job/P25-384381-1": "2026-10-08"
