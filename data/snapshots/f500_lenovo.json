@@ -1,12 +1,10 @@
 {
-  "checked_at": "2026-10-09T02:36:31+08:00",
+  "checked_at": "2026-10-09T13:10:46+08:00",
   "final_url": "https://jobs.lenovo.com/zh_CN/careers/SearchJobsChina",
   "title": "职位搜索 | Lenovo",
-  "hash": "9b1f7bd6eb1af8d61677f1ecb6881e67db41d55f01b0312952776f758a0d0a4b",
+  "hash": "08bddff1af77b6e475fd3d49f4fa15dbd35beb064f0d73ac6aca7584ef5d7961",
   "candidate_urls": [
-    "https://talent.lenovo.com.cn/",
-    "https://jobs.lenovo.com/zh_CN/careers/JobDetail/81985",
-    "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2F81985"
+    "https://talent.lenovo.com.cn/"
   ],
   "first_seen_by_url": {
     "https://talent.lenovo.com.cn/": "2026-09-15",
