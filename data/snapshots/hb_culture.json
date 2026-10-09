@@ -1,14 +1,14 @@
 {
-  "checked_at": "2026-10-09T13:10:46+08:00",
+  "checked_at": "2026-10-10T02:07:26+08:00",
   "final_url": "http://www.hbctic.com/",
   "title": "湖北文化旅游集团有限公司",
-  "hash": "95b018992fc907650650561fc27c7ea0a8b8f785f6ced940eb000c75b64fe7b8",
+  "hash": "e18bc091de909c13930c39ee107e1b21749f6e03b9677cb30748710d85231f2c",
   "candidate_urls": [
     "http://www.hbctic.com/sy_1/xwzx/gsgg/202609/t20260914_179552.shtml",
     "http://www.hbctic.com/cybj/",
     "http://www.hbctic.com/sy_1/xwzx/jtyw/202609/t20260929_180090.shtml",
     "http://www.hbctic.com/sy_1/xwzx/gsgg/202609/t20260908_179315.shtml",
-    "http://www.hbctic.com/sy_1/xwzx/jtyw/202609/t20260929_180095.shtml"
+    "http://www.hbctic.com/sy_1/xwzx/jtyw/202610/t20261009_180303.shtml"
   ],
   "first_seen_by_url": {
     "http://www.hbctic.com/cybj/": "2026-09-15",
@@ -19,6 +19,7 @@
     "http://www.hbctic.com/sy_1/xwzx/gsgg/202609/t20260914_179552.shtml": "2026-09-16",
     "http://www.hbctic.com/sy_1/xwzx/jtyw/202609/t20260920_179720.shtml": "2026-09-20",
     "http://www.hbctic.com/sy_1/xwzx/jtyw/202609/t20260929_180090.shtml": "2026-09-29",
-    "http://www.hbctic.com/sy_1/xwzx/jtyw/202609/t20260929_180095.shtml": "2026-10-08"
+    "http://www.hbctic.com/sy_1/xwzx/jtyw/202609/t20260929_180095.shtml": "2026-10-08",
+    "http://www.hbctic.com/sy_1/xwzx/jtyw/202610/t20261009_180303.shtml": "2026-10-10"
   }
 }
