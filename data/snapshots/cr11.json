@@ -1,11 +1,11 @@
 {
-  "checked_at": "2026-10-09T13:10:46+08:00",
+  "checked_at": "2026-10-10T12:56:30+08:00",
   "final_url": "https://www.cr11g.com.cn/",
   "title": "中铁十一局集团有限公司",
-  "hash": "ab232f682a58224e8c67fac938c22dc9732ebfad9c667ecc5dd5bd0922790d1a",
+  "hash": "a0e802f2efe38a2734990ac437ce823851a5b3eb1ce6bc1aad75ff1070a1eff9",
   "candidate_urls": [
+    "https://www.cr11g.com.cn/col/col1942/art/2026/art_3c86496fb5c945f58ed74ecd0b53248b.html",
     "https://www.cr11g.com.cn/col/col1942/art/2026/art_2b1084dd182a4adfa09702a32de107cd.html",
-    "https://www.cr11g.com.cn/col/col1942/art/2026/art_b10035e0a2f7497e8f382189387f6423.html",
     "https://www.cr11g.com.cn/col1947/art/2021/art_1947_3418148.html",
     "https://www.cr11g.com.cn/col1947/art/2020/art_1947_3045460.html",
     "https://www.cr11g.com.cn/col1955/art/2022/art_1955_3980560.html"
@@ -22,6 +22,7 @@
     "http://www.crcc.cn/col/col104/art/2026/art_d46404c961c84d8eb3140ac28bfa6ee4.html": "2026-09-21",
     "https://www.cr11g.com.cn/col/col1942/art/2026/art_2b1084dd182a4adfa09702a32de107cd.html": "2026-09-23",
     "https://www.cr11g.com.cn/col/col1942/art/2026/art_b10035e0a2f7497e8f382189387f6423.html": "2026-09-23",
-    "https://www.cr11g.com.cn/col/col1928/index.html": "2026-09-30"
+    "https://www.cr11g.com.cn/col/col1928/index.html": "2026-09-30",
+    "https://www.cr11g.com.cn/col/col1942/art/2026/art_3c86496fb5c945f58ed74ecd0b53248b.html": "2026-10-10"
   }
 }
