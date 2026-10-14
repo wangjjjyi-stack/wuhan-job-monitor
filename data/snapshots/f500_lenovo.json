@@ -1,10 +1,12 @@
 {
-  "checked_at": "2026-10-14T03:01:49+08:00",
+  "checked_at": "2026-10-14T12:02:31+08:00",
   "final_url": "https://jobs.lenovo.com/zh_CN/careers/SearchJobsChina",
   "title": "职位搜索 | Lenovo",
-  "hash": "00a1bafba57cf6644b8530a8ba6407504e7fc67e4bb97870d108acfb94ece4c2",
+  "hash": "e26070bc7066c22139606c75f98ed7366b88ae101f9a64842ff23a5702251cfb",
   "candidate_urls": [
     "https://talent.lenovo.com.cn/",
+    "https://jobs.lenovo.com/zh_CN/careers/JobDetail/Visuals-Assistant-TPM/82599",
+    "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2FVisuals-Assistant-TPM%2F82599",
     "https://jobs.lenovo.com/zh_CN/careers/JobDetail/82688",
     "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2F82688"
   ],
@@ -31,6 +33,8 @@
     "https://jobs.lenovo.com/zh_CN/careers/JobDetail/82554": "2026-10-10",
     "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2F82554": "2026-10-10",
     "https://jobs.lenovo.com/zh_CN/careers/JobDetail/82688": "2026-10-14",
-    "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2F82688": "2026-10-14"
+    "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2F82688": "2026-10-14",
+    "https://jobs.lenovo.com/zh_CN/careers/JobDetail/Visuals-Assistant-TPM/82599": "2026-10-14",
+    "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2FVisuals-Assistant-TPM%2F82599": "2026-10-14"
   }
 }
