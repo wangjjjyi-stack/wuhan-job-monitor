@@ -1,15 +1,12 @@
 {
-  "checked_at": "2026-10-15T11:45:02+08:00",
+  "checked_at": "2026-10-15T17:40:25+08:00",
   "final_url": "https://jobs.lenovo.com/zh_CN/careers/SearchJobsChina",
   "title": "职位搜索 | Lenovo",
-  "hash": "0da29144d87cf8737d0fe913d95925edad4aea8974cbca87b504931f58dc026a",
+  "hash": "e49ef4ee94bae6c7f8b920b0a30c3c0877043f059bfee594f59a5c11cee1e776",
   "candidate_urls": [
     "https://talent.lenovo.com.cn/",
     "https://jobs.lenovo.com/zh_CN/careers/JobDetail/Visuals-Assistant-TPM/82599",
-    "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2FVisuals-Assistant-TPM%2F82599",
-    "https://jobs.lenovo.com/zh_CN/careers/JobDetail/82688",
-    "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2F82688",
-    "https://jobs.lenovo.com/zh_CN/careers/JobDetail/Parent-Evergreen-SCM/82752"
+    "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2FVisuals-Assistant-TPM%2F82599"
   ],
   "first_seen_by_url": {
     "https://talent.lenovo.com.cn/": "2026-09-15",

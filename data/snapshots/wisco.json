@@ -1,13 +1,9 @@
 {
-  "checked_at": "2026-10-15T11:45:02+08:00",
-  "final_url": "https://www.baowugroup.com/home",
-  "title": "中国宝武钢铁集团有限公司",
-  "hash": "e4a5091205b96d57ac4e0edb1d30c7f845e2aa8966bdbf2baebce9390c17a44b",
-  "candidate_urls": [
-    "https://www.baowugroup.com/about/management_team",
-    "https://www.baowugroup.com/investor_relations/financial_summary",
-    "https://www.baowugroup.com/social_responsibility/management"
-  ],
+  "checked_at": "2026-10-15T17:40:25+08:00",
+  "final_url": "https://www.baowugroup.com/",
+  "title": "404 Not Found",
+  "hash": "73ad0fc50031ac7185936d288c3884c0b8e4bc5e60b949dbb5fa29f31dbe8cb1",
+  "candidate_urls": [],
   "first_seen_by_url": {
     "https://www.baowugroup.com/about/management_team": "2026-09-16",
     "https://www.baowugroup.com/investor_relations/financial_summary": "2026-09-16",
