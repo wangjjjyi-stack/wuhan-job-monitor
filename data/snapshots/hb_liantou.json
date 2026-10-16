@@ -1,15 +1,9 @@
 {
-  "checked_at": "2026-10-16T00:32:39+08:00",
+  "checked_at": "2026-10-17T00:17:33+08:00",
   "final_url": "https://hblt.zhiye.com/campus",
   "title": "校招首页",
-  "hash": "b4f740d90df35a6ef45653a7399639f8fb9e4cc059e055cfe58837b557d20d5d",
-  "candidate_urls": [
-    "https://hblt.zhiye.com/campus/jobs?4=%5B%7B%22id%22%3A%2225%22%2C%22label%22%3A%22%E6%88%98%E7%95%A5%E6%8A%95%E8%B5%84%E7%B1%BB%22%7D%5D",
-    "https://hblt.zhiye.com/campus/jobs?4=%5B%7B%22id%22%3A%223%22%2C%22label%22%3A%22%E8%B4%A2%E5%8A%A1%E8%B5%84%E9%87%91%E7%B1%BB%22%7D%5D",
-    "https://hblt.zhiye.com/campus/jobs?4=%5B%7B%22id%22%3A%2228%22%2C%22label%22%3A%22%E7%89%A9%E6%B5%81%E7%AE%A1%E7%90%86%E7%B1%BB%22%7D%5D",
-    "https://hblt.zhiye.com/campus/jobs?4=%5B%7B%22id%22%3A%2222%22%2C%22label%22%3A%22%E5%B7%A5%E7%A8%8B%E7%AE%A1%E7%90%86%E7%B1%BB%22%7D%5D",
-    "https://hblt.zhiye.com/campus/jobs?4=%5B%7B%22id%22%3A%2210%22%2C%22label%22%3A%22%E9%87%91%E8%9E%8D%E4%B8%9A%E5%8A%A1%E7%B1%BB%22%7D%5D"
-  ],
+  "hash": "27c371a23f142ffe9d39d881f98fab618df9955a42f93fec571ab7d8e060ce75",
+  "candidate_urls": [],
   "first_seen_by_url": {
     "https://hblt.zhiye.com/campus/jobs?4=%5B%7B%22id%22%3A%2225%22%2C%22label%22%3A%22%E6%88%98%E7%95%A5%E6%8A%95%E8%B5%84%E7%B1%BB%22%7D%5D": "2026-10-13",
     "https://hblt.zhiye.com/campus/jobs?4=%5B%7B%22id%22%3A%223%22%2C%22label%22%3A%22%E8%B4%A2%E5%8A%A1%E8%B5%84%E9%87%91%E7%B1%BB%22%7D%5D": "2026-10-13",
