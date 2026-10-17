@@ -1,12 +1,10 @@
 {
-  "checked_at": "2026-10-17T17:04:21+08:00",
+  "checked_at": "2026-10-17T23:11:39+08:00",
   "final_url": "https://jobs.lenovo.com/zh_CN/careers/SearchJobsChina",
   "title": "职位搜索 | Lenovo",
-  "hash": "23b74a8ed17268bf2d5af775993a5a0b4f8d9832357335b32241eed056826792",
+  "hash": "acfb46a2f4584adb6e3a1afa7b5355a9c44f67296cf1843aee8b71329bce9724",
   "candidate_urls": [
-    "https://talent.lenovo.com.cn/",
-    "https://jobs.lenovo.com/zh_CN/careers/JobDetail/Visuals-Assistant-TPM/82599",
-    "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2FVisuals-Assistant-TPM%2F82599"
+    "https://talent.lenovo.com.cn/"
   ],
   "first_seen_by_url": {
     "https://talent.lenovo.com.cn/": "2026-09-15",
