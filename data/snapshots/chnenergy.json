@@ -1,11 +1,9 @@
 {
-  "checked_at": "2026-10-21T00:32:04+08:00",
+  "checked_at": "2026-10-21T11:48:36+08:00",
   "final_url": "https://zhaopin.chnenergy.com.cn/",
-  "title": "登录",
-  "hash": "091a8d42e0497005516dc3735f94708c724b14d426761d7e92a7585912b62904",
-  "candidate_urls": [
-    "https://zhaopin.chnenergy.com.cn/"
-  ],
+  "title": "系统升级中...",
+  "hash": "b96a6dd90d6ab5eb8023d7e14a48ae7cde04700d3a1e505f51f02be562523505",
+  "candidate_urls": [],
   "first_seen_by_url": {
     "https://zhaopin.chnenergy.com.cn/": "2026-09-15"
   }
