@@ -1,14 +1,14 @@
 {
-  "checked_at": "2026-10-22T00:49:50+08:00",
+  "checked_at": "2026-10-22T11:48:18+08:00",
   "final_url": "https://www.cr11g.com.cn/",
   "title": "中铁十一局集团有限公司",
-  "hash": "638eaf9cc10d9947d00155dfb4a193566799ca2dae9016b856f055a448f14378",
+  "hash": "9c7f108fede978de3d57bf4952b117a6ef4902d47fd8165c09eb33a7beea6bc5",
   "candidate_urls": [
+    "https://www.cr11g.com.cn/col/col1928/index.html",
     "https://www.cr11g.com.cn/col/col1941/art/2026/art_2823061718be47ddb56bf3757ca5be3e.html",
     "https://www.cr11g.com.cn/col/col1942/art/2026/art_1aa8dafaa1964013977fd2c80dd15b84.html",
     "https://www.cr11g.com.cn/col/col1942/art/2026/art_22638c9ef0ad4d2bb517e4c6812387ac.html",
-    "https://www.cr11g.com.cn/col/col1942/art/2026/art_3c86496fb5c945f58ed74ecd0b53248b.html",
-    "https://www.cr11g.com.cn/col1947/art/2021/art_1947_3418148.html"
+    "https://www.cr11g.com.cn/col/col1942/art/2026/art_3c86496fb5c945f58ed74ecd0b53248b.html"
   ],
   "first_seen_by_url": {
     "https://www.cr11g.com.cn/col/col1941/art/2026/art_b54b078a25304dd0910365e3f77dab03.html": "2026-09-15",
