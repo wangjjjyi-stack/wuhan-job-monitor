@@ -1,15 +1,13 @@
 {
-  "checked_at": "2026-10-22T17:53:47+08:00",
+  "checked_at": "2026-10-23T00:50:42+08:00",
   "final_url": "https://www.siemens.com/zh-cn/company/jobs/",
   "title": "招聘 | Siemens",
-  "hash": "66ff00bf39e12a499928b7e0831be3bcac3454ccbd6895d6c9afed0aa5c54e7d",
+  "hash": "923005010bcbb21b0cc7251e89b924c4ffcdb83d832bffaf51cb5b2b4722c72b",
   "candidate_urls": [
-    "https://jobs.siemens.com.cn/siemens/position/index?recruitmentType=CAMPUSRECRUITMENT&ds=2027fall_website",
-    "https://jobs.siemens.com.cn/siemens/position/index?recruitmentType=SOCIALRECRUITMENT",
-    "https://www.siemens.com/zh-cn/company/jobs/campus-recruiting/",
     "https://www.siemens.com/zh-cn/company/jobs/growth-careers/",
     "https://www.siemens.com/zh-cn/company/about/businesses/digital-industries/",
-    "https://www.siemens.com/zh-cn/company/about/businesses/smart-infrastructure/"
+    "https://www.siemens.com/zh-cn/company/about/businesses/smart-infrastructure/",
+    "https://www.siemens.com/zh-cn/company/jobs/growth-careers/siemens-graduate-program/"
   ],
   "first_seen_by_url": {
     "https://www.siemens.com/zh-cn/company/jobs/growth-careers/": "2026-09-15",
