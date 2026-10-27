@@ -1,12 +1,12 @@
 {
-  "checked_at": "2026-10-27T12:13:00+08:00",
+  "checked_at": "2026-10-27T18:15:42+08:00",
   "final_url": "https://whucg.cn/CAREERS.html",
   "title": "市场化选聘 - 武汉城建集团",
   "hash": "50f1b45014bdc8f28337556af95b6dbbcbdf2ef38f9b160fe29a003e7217dffd",
   "candidate_urls": [
     "https://whucg.cn/constituent-company/12836.html",
     "https://whucg.cn/constituent-company/12834.html",
-    "http://campus.51job.com/whcj2025",
+    "https://campus.51job.com/whcj2025",
     "https://whucg.cn/constituent-company/12824.html",
     "https://whucg.cn/constituent-company/12156.html"
   ],
@@ -15,6 +15,7 @@
     "https://whucg.cn/constituent-company/12834.html": "2026-09-15",
     "http://campus.51job.com/whcj2025": "2026-09-15",
     "https://whucg.cn/constituent-company/12824.html": "2026-09-15",
-    "https://whucg.cn/constituent-company/12156.html": "2026-09-15"
+    "https://whucg.cn/constituent-company/12156.html": "2026-09-15",
+    "https://campus.51job.com/whcj2025": "2026-10-27"
   }
 }
