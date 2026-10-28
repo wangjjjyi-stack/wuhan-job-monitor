@@ -1,15 +1,15 @@
 {
-  "checked_at": "2026-10-28T12:40:48+08:00",
+  "checked_at": "2026-10-28T19:05:36+08:00",
   "final_url": "https://hr.xiaomi.com/website/opportunities.html",
   "title": "探索机会 | 小米招聘",
-  "hash": "9cac04969bbe2bbd01f57d7f31fbbd74b3caef4a101508fbc7d4b0070f8f418a",
+  "hash": "5f0c6affdf28ea0442332adb2099412017f215d89d38dc4cc5233913f91a255a",
   "candidate_urls": [
     "https://hr.xiaomi.com/website/campus.html",
     "https://hr.xiaomi.com/website/opportunities.html",
     "https://xiaomi.jobs.f.mioffice.cn/index/position/7342833451802542188/detail",
     "https://xiaomi.jobs.f.mioffice.cn/index/position/7552885463436118308/detail",
     "https://xiaomi.jobs.f.mioffice.cn/index/position/7509111824118661229/detail",
-    "https://xiaomi.jobs.f.mioffice.cn/index/position/7536168291875094637/detail"
+    "https://xiaomi.jobs.f.mioffice.cn/index/position/7379430853581324396/detail"
   ],
   "first_seen_by_url": {
     "https://hr.xiaomi.com/website/campus.html": "2026-09-15",
@@ -18,6 +18,7 @@
     "https://xiaomi.jobs.f.mioffice.cn/index/position/7290434322510479469/detail": "2026-09-15",
     "https://xiaomi.jobs.f.mioffice.cn/index/position/7552885463436118308/detail": "2026-09-15",
     "https://xiaomi.jobs.f.mioffice.cn/index/position/7509111824118661229/detail": "2026-09-15",
-    "https://xiaomi.jobs.f.mioffice.cn/index/position/7536168291875094637/detail": "2026-10-20"
+    "https://xiaomi.jobs.f.mioffice.cn/index/position/7536168291875094637/detail": "2026-10-20",
+    "https://xiaomi.jobs.f.mioffice.cn/index/position/7379430853581324396/detail": "2026-10-28"
   }
 }
