@@ -1,14 +1,14 @@
 {
-  "checked_at": "2026-10-28T01:42:02+08:00",
+  "checked_at": "2026-10-28T12:40:48+08:00",
   "final_url": "https://jobs.lenovo.com/zh_CN/careers/SearchJobsChina",
   "title": "职位搜索 | Lenovo",
-  "hash": "6b53dfebc394b38855298cc634effc0c252a436b729848343c58b3be2fde2165",
+  "hash": "3b1295b110960137b963a2d07cbe2e4cbf66888e9e64606c1132374bf2b27cfb",
   "candidate_urls": [
     "https://jobs.lenovo.com/zh_CN/careers/JobDetail/AI/83235",
     "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2FAI%2F83235",
     "https://talent.lenovo.com.cn/",
-    "https://jobs.lenovo.com/zh_CN/careers/JobDetail/AI/83056",
-    "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2FAI%2F83056"
+    "https://jobs.lenovo.com/zh_CN/careers/JobDetail/83295",
+    "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2F83295"
   ],
   "first_seen_by_url": {
     "https://talent.lenovo.com.cn/": "2026-09-15",
@@ -47,6 +47,8 @@
     "https://jobs.lenovo.com/zh_CN/careers/JobDetail/AI/83056": "2026-10-23",
     "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2FAI%2F83056": "2026-10-23",
     "https://jobs.lenovo.com/zh_CN/careers/JobDetail/AI/83235": "2026-10-28",
-    "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2FAI%2F83235": "2026-10-28"
+    "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2FAI%2F83235": "2026-10-28",
+    "https://jobs.lenovo.com/zh_CN/careers/JobDetail/83295": "2026-10-28",
+    "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2F83295": "2026-10-28"
   }
 }
