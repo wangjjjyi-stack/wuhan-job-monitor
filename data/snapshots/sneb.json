@@ -1,15 +1,9 @@
 {
-  "checked_at": "2026-10-30T02:11:49+08:00",
+  "checked_at": "2026-10-30T12:53:20+08:00",
   "final_url": "https://www.sneb.com.cn/col80/index",
-  "title": "中交第二航务工程局有限公司",
-  "hash": "8a3186290ae2279e973f53ae3f764d924d36c49b6b61f00ae53673739ad52674",
-  "candidate_urls": [
-    "https://www.sneb.com.cn/col84/index",
-    "https://www.sneb.com.cn/col14/index",
-    "https://www.sneb.com.cn/col15/index",
-    "https://www.sneb.com.cn/col37/list",
-    "https://www.sneb.com.cn/col54/list"
-  ],
+  "title": "",
+  "hash": "65707a109095b6305c6fdcb8dcdddbf0a5c2595d196dadf53d4f24e4626fa93c",
+  "candidate_urls": [],
   "first_seen_by_url": {
     "https://www.sneb.com.cn/col84/index": "2026-09-15",
     "https://www.sneb.com.cn/col14/index": "2026-09-15",
