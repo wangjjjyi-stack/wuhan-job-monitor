@@ -1,14 +1,14 @@
 {
-  "checked_at": "2026-10-30T12:53:20+08:00",
+  "checked_at": "2026-10-30T19:13:36+08:00",
   "final_url": "https://www.cr11g.com.cn/",
   "title": "中铁十一局集团有限公司",
-  "hash": "e4b5eef1051a3584a319edbd38def0c1f05d9b8a89ef0417fdca028509436ebb",
+  "hash": "cf3f8651c6c4a361a08d150c445a21d1343e518581b199bf01ee581d1718bebf",
   "candidate_urls": [
+    "https://www.cr11g.com.cn/col/col1941/art/2026/art_d2032ef3ca7a4bb0b99c2d1f16f42e07.html",
     "https://www.cr11g.com.cn/col/col1941/art/2026/art_2823061718be47ddb56bf3757ca5be3e.html",
     "https://www.cr11g.com.cn/col/col1942/art/2026/art_d9e493e93b924ab5b54c70fe25152e7a.html",
     "https://www.cr11g.com.cn/col1947/art/2021/art_1947_3418148.html",
-    "https://www.cr11g.com.cn/col1947/art/2020/art_1947_3045460.html",
-    "https://www.cr11g.com.cn/col1955/art/2022/art_1955_3980560.html"
+    "https://www.cr11g.com.cn/col1947/art/2020/art_1947_3045460.html"
   ],
   "first_seen_by_url": {
     "https://www.cr11g.com.cn/col/col1941/art/2026/art_b54b078a25304dd0910365e3f77dab03.html": "2026-09-15",
@@ -30,6 +30,7 @@
     "https://www.cr11g.com.cn/col/col1941/art/2026/art_2823061718be47ddb56bf3757ca5be3e.html": "2026-10-19",
     "http://www.sasac.gov.cn/n2588025/n2643314/c36004189/content.html": "2026-10-28",
     "http://www.crcc.cn/col/col104/art/2026/art_a08601a9bf1444fd92ae5783410e5697.html": "2026-10-28",
-    "https://www.cr11g.com.cn/col/col1942/art/2026/art_d9e493e93b924ab5b54c70fe25152e7a.html": "2026-10-28"
+    "https://www.cr11g.com.cn/col/col1942/art/2026/art_d9e493e93b924ab5b54c70fe25152e7a.html": "2026-10-28",
+    "https://www.cr11g.com.cn/col/col1941/art/2026/art_d2032ef3ca7a4bb0b99c2d1f16f42e07.html": "2026-10-30"
   }
 }
