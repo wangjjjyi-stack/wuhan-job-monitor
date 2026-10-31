@@ -1,10 +1,12 @@
 {
-  "checked_at": "2026-10-31T12:39:06+08:00",
+  "checked_at": "2026-10-31T18:45:57+08:00",
   "final_url": "https://jobs.lenovo.com/zh_CN/careers/SearchJobsChina",
   "title": "职位搜索 | Lenovo",
-  "hash": "c8b981312eab2781536921de71293d8fece96c5c2b0164f549d6064f85ecb0ba",
+  "hash": "57c7e76f392fd59291b4349190ef7c457aebe45789240b1e413904945ef4df47",
   "candidate_urls": [
-    "https://talent.lenovo.com.cn/"
+    "https://talent.lenovo.com.cn/",
+    "https://jobs.lenovo.com/zh_CN/careers/JobDetail/Parent-Evergreen-Financial-BP-Vehicle-Computing/83529",
+    "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2FParent-Evergreen-Financial-BP-Vehicle-Computing%2F83529"
   ],
   "first_seen_by_url": {
     "https://talent.lenovo.com.cn/": "2026-09-15",
@@ -47,6 +49,8 @@
     "https://jobs.lenovo.com/zh_CN/careers/JobDetail/83295": "2026-10-28",
     "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2F83295": "2026-10-28",
     "https://jobs.lenovo.com/zh_CN/careers/JobDetail/83174": "2026-10-29",
-    "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2F83174": "2026-10-29"
+    "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2F83174": "2026-10-29",
+    "https://jobs.lenovo.com/zh_CN/careers/JobDetail/Parent-Evergreen-Financial-BP-Vehicle-Computing/83529": "2026-10-31",
+    "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2FParent-Evergreen-Financial-BP-Vehicle-Computing%2F83529": "2026-10-31"
   }
 }
