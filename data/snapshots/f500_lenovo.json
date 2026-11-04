@@ -1,15 +1,14 @@
 {
-  "checked_at": "2026-11-04T13:23:16+08:00",
+  "checked_at": "2026-11-05T03:30:20+08:00",
   "final_url": "https://jobs.lenovo.com/zh_CN/careers/SearchJobsChina",
   "title": "职位搜索 | Lenovo",
-  "hash": "bce015b0f4c3ec0857e088ccb933f157c26a36afb21090711e45c4883faf5d1c",
+  "hash": "a99c02291f782e0fb0a3ebdef70eabbd6de16ba5ea72f9bdf4701360484177b1",
   "candidate_urls": [
     "https://talent.lenovo.com.cn/",
-    "https://jobs.lenovo.com/zh_CN/careers/JobDetail/83541",
-    "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2F83541",
-    "https://jobs.lenovo.com/zh_CN/careers/JobDetail/Global-Supply-Management/83261",
-    "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2FGlobal-Supply-Management%2F83261",
-    "https://jobs.lenovo.com/zh_CN/careers/JobDetail/AI-Infra/83532"
+    "https://jobs.lenovo.com/zh_CN/careers/JobDetail/83592",
+    "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2F83592",
+    "https://jobs.lenovo.com/zh_CN/careers/JobDetail/Input-Product-Manager/82123",
+    "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2FInput-Product-Manager%2F82123"
   ],
   "first_seen_by_url": {
     "https://talent.lenovo.com.cn/": "2026-09-15",
@@ -60,6 +59,10 @@
     "https://jobs.lenovo.com/zh_CN/careers/JobDetail/83541": "2026-11-04",
     "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2F83541": "2026-11-04",
     "https://jobs.lenovo.com/zh_CN/careers/JobDetail/Global-Supply-Management/83261": "2026-11-04",
-    "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2FGlobal-Supply-Management%2F83261": "2026-11-04"
+    "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2FGlobal-Supply-Management%2F83261": "2026-11-04",
+    "https://jobs.lenovo.com/zh_CN/careers/JobDetail/83592": "2026-11-05",
+    "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2F83592": "2026-11-05",
+    "https://jobs.lenovo.com/zh_CN/careers/JobDetail/Input-Product-Manager/82123": "2026-11-05",
+    "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2FInput-Product-Manager%2F82123": "2026-11-05"
   }
 }

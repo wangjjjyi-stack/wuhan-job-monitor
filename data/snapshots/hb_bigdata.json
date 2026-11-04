@@ -1,12 +1,12 @@
 {
-  "checked_at": "2026-11-04T13:23:16+08:00",
+  "checked_at": "2026-11-05T03:30:20+08:00",
   "final_url": "https://www.hbdsjjt.com/",
   "title": "湖北大数据集团",
-  "hash": "8009c83e5bdd268e863fa4c7efc6ff1907fa4eff7290f2950a88d5c0acb62f3d",
+  "hash": "0abf307d5e27349f9559b36187d6e048585e885f84b33264ffdc21af6dd7d1b2",
   "candidate_urls": [
+    "https://www.hbdsjjt.com/xwzx/jydt/2117920464997339138.html",
     "https://www.hbdsjjt.com/hxyw/dsjcyyjzxyw/",
     "https://www.hbdsjjt.com/hxyw/cytzyw/",
-    "https://www.hbdsjjt.com/xwzx/tzgg/2099736515179687937.html",
     "https://hbdsjjt.zhiye.com/",
     "https://www.hbdsjjt.com/hxyw/sjzykflyyw/"
   ],
@@ -18,6 +18,7 @@
     "https://www.hbdsjjt.com/xwzx/mtjj/2096772898176086017.html": "2026-09-15",
     "https://hbdsjjt.zhiye.com/": "2026-09-25",
     "https://www.hbdsjjt.com/xwzx/mtjj/2108488950563975170.html": "2026-10-10",
-    "https://www.hbdsjjt.com/hxyw/sjzykflyyw/": "2026-10-24"
+    "https://www.hbdsjjt.com/hxyw/sjzykflyyw/": "2026-10-24",
+    "https://www.hbdsjjt.com/xwzx/jydt/2117920464997339138.html": "2026-11-05"
   }
 }
