@@ -1,14 +1,15 @@
 {
-  "checked_at": "2026-11-05T03:30:20+08:00",
+  "checked_at": "2026-11-05T13:42:35+08:00",
   "final_url": "https://jobs.lenovo.com/zh_CN/careers/SearchJobsChina",
   "title": "职位搜索 | Lenovo",
-  "hash": "a99c02291f782e0fb0a3ebdef70eabbd6de16ba5ea72f9bdf4701360484177b1",
+  "hash": "306f16f14e1f77b463b2da5137b94cd52db46ccb82966f12b049a5f4cc8f5158",
   "candidate_urls": [
     "https://talent.lenovo.com.cn/",
+    "https://jobs.lenovo.com/zh_CN/careers/JobDetail/TaaS/83652",
+    "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2FTaaS%2F83652",
     "https://jobs.lenovo.com/zh_CN/careers/JobDetail/83592",
     "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2F83592",
-    "https://jobs.lenovo.com/zh_CN/careers/JobDetail/Input-Product-Manager/82123",
-    "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2FInput-Product-Manager%2F82123"
+    "https://jobs.lenovo.com/zh_CN/careers/JobDetail/Input-Product-Manager/82123"
   ],
   "first_seen_by_url": {
     "https://talent.lenovo.com.cn/": "2026-09-15",
@@ -63,6 +64,8 @@
     "https://jobs.lenovo.com/zh_CN/careers/JobDetail/83592": "2026-11-05",
     "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2F83592": "2026-11-05",
     "https://jobs.lenovo.com/zh_CN/careers/JobDetail/Input-Product-Manager/82123": "2026-11-05",
-    "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2FInput-Product-Manager%2F82123": "2026-11-05"
+    "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2FInput-Product-Manager%2F82123": "2026-11-05",
+    "https://jobs.lenovo.com/zh_CN/careers/JobDetail/TaaS/83652": "2026-11-05",
+    "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2FTaaS%2F83652": "2026-11-05"
   }
 }
