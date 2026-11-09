@@ -1,15 +1,14 @@
 {
-  "checked_at": "2026-11-09T13:14:24+08:00",
+  "checked_at": "2026-11-10T06:02:40+08:00",
   "final_url": "https://jobs.lenovo.com/zh_CN/careers/SearchJobsChina",
   "title": "职位搜索 | Lenovo",
-  "hash": "2d439c08eb42f1027b7059ef75dacb3923c414ea40d686c245f7aa1fe5441449",
+  "hash": "35e6999275aeaf356c6585c966575fd6780e52df2db0d953b095229ef5dea6a0",
   "candidate_urls": [
     "https://talent.lenovo.com.cn/",
     "https://jobs.lenovo.com/zh_CN/careers/JobDetail/82978",
     "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2F82978",
     "https://jobs.lenovo.com/zh_CN/careers/JobDetail/TaaS/83652",
-    "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2FTaaS%2F83652",
-    "https://jobs.lenovo.com/zh_CN/careers/JobDetail/83651"
+    "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2FTaaS%2F83652"
   ],
   "first_seen_by_url": {
     "https://talent.lenovo.com.cn/": "2026-09-15",
