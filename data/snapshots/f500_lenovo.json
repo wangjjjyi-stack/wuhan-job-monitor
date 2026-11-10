@@ -1,15 +1,14 @@
 {
-  "checked_at": "2026-11-10T14:28:36+08:00",
+  "checked_at": "2026-11-11T03:27:17+08:00",
   "final_url": "https://jobs.lenovo.com/zh_CN/careers/SearchJobsChina",
   "title": "职位搜索 | Lenovo",
-  "hash": "8a6d3118ac77fd3b16b3c820501ac0a88aed78cf8c2aa87de844f8b5fa80f619",
+  "hash": "c9c3d4d3bb80f9adce3e356bf52a4eed2fc73f200482f99445fbedb64438c628",
   "candidate_urls": [
     "https://talent.lenovo.com.cn/",
+    "https://jobs.lenovo.com/zh_CN/careers/JobDetail/Senior-Specialist-WW-Treasury-PRC/83634",
+    "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2FSenior-Specialist-WW-Treasury-PRC%2F83634",
     "https://jobs.lenovo.com/zh_CN/careers/JobDetail/82978",
-    "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2F82978",
-    "https://jobs.lenovo.com/zh_CN/careers/JobDetail/TaaS/83652",
-    "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2FTaaS%2F83652",
-    "https://jobs.lenovo.com/zh_CN/careers/JobDetail/83651"
+    "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2F82978"
   ],
   "first_seen_by_url": {
     "https://talent.lenovo.com.cn/": "2026-09-15",
@@ -70,6 +69,8 @@
     "https://jobs.lenovo.com/zh_CN/careers/JobDetail/83651": "2026-11-06",
     "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2F83651": "2026-11-06",
     "https://jobs.lenovo.com/zh_CN/careers/JobDetail/82978": "2026-11-07",
-    "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2F82978": "2026-11-07"
+    "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2F82978": "2026-11-07",
+    "https://jobs.lenovo.com/zh_CN/careers/JobDetail/Senior-Specialist-WW-Treasury-PRC/83634": "2026-11-11",
+    "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2FSenior-Specialist-WW-Treasury-PRC%2F83634": "2026-11-11"
   }
 }
