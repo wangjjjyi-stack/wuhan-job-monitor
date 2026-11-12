@@ -1,15 +1,9 @@
 {
-  "checked_at": "2026-11-12T14:19:22+08:00",
+  "checked_at": "2026-11-13T03:40:40+08:00",
   "final_url": "https://careers.se.com/jobs?location=Wuhan%2C%20China",
-  "title": "Schneider Electric",
-  "hash": "bca97015da0a6fa9faeb1e4a4e2bdd3c757b504f826dfcc8de6a0271d3b109f4",
-  "candidate_urls": [
-    "https://careers.se.com/careers-at-schneider-electric?lang=zh-CN",
-    "https://www.se.com/ww/en/about-us/investor-relations/",
-    "https://www.se.com/ww/en/about-us/sustainability/responsibility-ethics/trustline/",
-    "https://www.se.com/ww/en/about-us/investor-relations/financial-calendar-and-events.jsp",
-    "https://www.se.com/ww/en/work/solutions/"
-  ],
+  "title": "Access Denied",
+  "hash": "f5240be3d46264b44950db0f3bdd409ac0ec00b3be9d45481a61bc33470be0bf",
+  "candidate_urls": [],
   "first_seen_by_url": {
     "https://careers.se.com/careers-at-schneider-electric?lang=zh-CN": "2026-09-15",
     "https://www.se.com/ww/en/about-us/investor-relations/": "2026-09-15",
