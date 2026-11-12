@@ -1,9 +1,10 @@
 {
-  "checked_at": "2026-11-12T03:22:42+08:00",
+  "checked_at": "2026-11-12T14:19:22+08:00",
   "final_url": "https://www.hbhtgroup.com/rcfz/zxns/",
   "title": "招贤纳士- 湖北宏泰集团",
-  "hash": "d33aa31ff304a4ef627d2a20afe5d038b68abe7cb44393c461ae207a96d9ad3b",
+  "hash": "5a4c9926d87852ef697acd0ce9f1e30c842f086f8ffe130e58f43c4ac0a098b6",
   "candidate_urls": [
+    "http://www.hbhtgroup.com/rcfz/zxns/202611/t20261112_181885.shtml",
     "http://www.hbhtgroup.com/xwzx/qydt/",
     "http://www.hbhtgroup.com/ywtx/zhjrfw/",
     "http://www.hbhtgroup.com/ywtx/zcjrbz/"
@@ -14,6 +15,7 @@
     "http://www.hbhtgroup.com/rcfz/zxns/202608/t20260827_178827.shtml": "2026-09-15",
     "http://www.hbhtgroup.com/xwzx/qydt/": "2026-09-15",
     "http://www.hbhtgroup.com/ywtx/zhjrfw/": "2026-09-15",
-    "http://www.hbhtgroup.com/ywtx/zcjrbz/": "2026-10-26"
+    "http://www.hbhtgroup.com/ywtx/zcjrbz/": "2026-10-26",
+    "http://www.hbhtgroup.com/rcfz/zxns/202611/t20261112_181885.shtml": "2026-11-12"
   }
 }
