@@ -1,12 +1,12 @@
 {
-  "checked_at": "2026-11-18T14:28:41+08:00",
+  "checked_at": "2026-11-19T04:09:14+08:00",
   "final_url": "https://www.siemens.com/zh-cn/company/jobs/",
   "title": "招聘 | Siemens",
   "hash": "e1d358e3002475a3340669652e5542bb5a1fb84d90d58ac31c7e08578f68e32e",
   "candidate_urls": [
     "https://www.siemens.com/zh-cn/company/jobs/growth-careers/",
     "https://www.siemens.com/zh-cn/company/about/businesses/digital-industries/",
-    "https://www.siemens.com/zh-cn/company/about/businesses/smart-infrastructure/",
+    "https://www.siemens.com/en-us/content/smart-building-infrastructure/",
     "https://www.siemens.com/zh-cn/company/jobs/growth-careers/siemens-graduate-program/"
   ],
   "first_seen_by_url": {
@@ -16,6 +16,7 @@
     "https://www.siemens.com/zh-cn/company/jobs/growth-careers/siemens-graduate-program/": "2026-09-15",
     "https://jobs.siemens.com.cn/siemens/position/index?recruitmentType=CAMPUSRECRUITMENT&ds=2027fall_website": "2026-10-15",
     "https://jobs.siemens.com.cn/siemens/position/index?recruitmentType=SOCIALRECRUITMENT": "2026-10-15",
-    "https://www.siemens.com/zh-cn/company/jobs/campus-recruiting/": "2026-10-15"
+    "https://www.siemens.com/zh-cn/company/jobs/campus-recruiting/": "2026-10-15",
+    "https://www.siemens.com/en-us/content/smart-building-infrastructure/": "2026-11-19"
   }
 }

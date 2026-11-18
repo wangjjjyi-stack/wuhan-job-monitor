@@ -1,12 +1,14 @@
 {
-  "checked_at": "2026-11-18T14:28:41+08:00",
+  "checked_at": "2026-11-19T04:09:14+08:00",
   "final_url": "https://jobs.lenovo.com/zh_CN/careers/SearchJobsChina",
   "title": "职位搜索 | Lenovo",
-  "hash": "9cfc83d25c220a5d8099fecaa59f2f9b599896322ada86f536f8f9ad7719ec0a",
+  "hash": "db5df97852f6e2700ad1c9ee1d7628345629686c0b279e68fdf14d13a979a5b9",
   "candidate_urls": [
     "https://jobs.lenovo.com/zh_CN/careers/JobDetail/Chrome/83929",
     "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2FChrome%2F83929",
-    "https://talent.lenovo.com.cn/"
+    "https://talent.lenovo.com.cn/",
+    "https://jobs.lenovo.com/zh_CN/careers/JobDetail/AI/84018",
+    "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2FAI%2F84018"
   ],
   "first_seen_by_url": {
     "https://talent.lenovo.com.cn/": "2026-09-15",
@@ -71,6 +73,8 @@
     "https://jobs.lenovo.com/zh_CN/careers/JobDetail/Senior-Specialist-WW-Treasury-PRC/83634": "2026-11-11",
     "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2FSenior-Specialist-WW-Treasury-PRC%2F83634": "2026-11-11",
     "https://jobs.lenovo.com/zh_CN/careers/JobDetail/Chrome/83929": "2026-11-16",
-    "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2FChrome%2F83929": "2026-11-16"
+    "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2FChrome%2F83929": "2026-11-16",
+    "https://jobs.lenovo.com/zh_CN/careers/JobDetail/AI/84018": "2026-11-19",
+    "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2FAI%2F84018": "2026-11-19"
   }
 }
