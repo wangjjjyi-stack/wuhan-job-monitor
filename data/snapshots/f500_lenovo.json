@@ -1,12 +1,12 @@
 {
-  "checked_at": "2026-11-19T04:09:14+08:00",
+  "checked_at": "2026-11-19T14:35:22+08:00",
   "final_url": "https://jobs.lenovo.com/zh_CN/careers/SearchJobsChina",
   "title": "职位搜索 | Lenovo",
-  "hash": "db5df97852f6e2700ad1c9ee1d7628345629686c0b279e68fdf14d13a979a5b9",
+  "hash": "149734480526e4845f5ebf3fa5b1cc61b28add3cf73c3b08b204b307a492457e",
   "candidate_urls": [
-    "https://jobs.lenovo.com/zh_CN/careers/JobDetail/Chrome/83929",
-    "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2FChrome%2F83929",
     "https://talent.lenovo.com.cn/",
+    "https://jobs.lenovo.com/zh_CN/careers/JobDetail/Camera-Evergreen-zhangli48/84211",
+    "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2FCamera-Evergreen-zhangli48%2F84211",
     "https://jobs.lenovo.com/zh_CN/careers/JobDetail/AI/84018",
     "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2FAI%2F84018"
   ],
@@ -75,6 +75,8 @@
     "https://jobs.lenovo.com/zh_CN/careers/JobDetail/Chrome/83929": "2026-11-16",
     "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2FChrome%2F83929": "2026-11-16",
     "https://jobs.lenovo.com/zh_CN/careers/JobDetail/AI/84018": "2026-11-19",
-    "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2FAI%2F84018": "2026-11-19"
+    "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2FAI%2F84018": "2026-11-19",
+    "https://jobs.lenovo.com/zh_CN/careers/JobDetail/Camera-Evergreen-zhangli48/84211": "2026-11-19",
+    "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2FCamera-Evergreen-zhangli48%2F84211": "2026-11-19"
   }
 }
