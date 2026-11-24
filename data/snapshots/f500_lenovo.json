@@ -1,9 +1,11 @@
 {
-  "checked_at": "2026-11-23T14:26:28+08:00",
+  "checked_at": "2026-11-24T07:33:43+08:00",
   "final_url": "https://jobs.lenovo.com/zh_CN/careers/SearchJobsChina",
   "title": "职位搜索 | Lenovo",
-  "hash": "fc6446d2a3d236bce04dc089b1bfedc1ee2b9b0000040e8f61d4763622f27137",
+  "hash": "eb33520a92f15a36f256830af0e93fe55b7bae23628688f7e1dc902e840debc1",
   "candidate_urls": [
+    "https://jobs.lenovo.com/zh_CN/careers/JobDetail/84330",
+    "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2F84330",
     "https://talent.lenovo.com.cn/"
   ],
   "first_seen_by_url": {
@@ -77,6 +79,8 @@
     "https://jobs.lenovo.com/zh_CN/careers/JobDetail/84241": "2026-11-20",
     "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2F84241": "2026-11-20",
     "https://jobs.lenovo.com/zh_CN/careers/JobDetail/TokenHub-Leader/84260": "2026-11-20",
-    "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2FTokenHub-Leader%2F84260": "2026-11-20"
+    "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2FTokenHub-Leader%2F84260": "2026-11-20",
+    "https://jobs.lenovo.com/zh_CN/careers/JobDetail/84330": "2026-11-24",
+    "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2F84330": "2026-11-24"
   }
 }
