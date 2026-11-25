@@ -1,15 +1,15 @@
 {
-  "checked_at": "2026-11-25T06:02:35+08:00",
+  "checked_at": "2026-11-25T15:35:05+08:00",
   "final_url": "https://jobs.lenovo.com/zh_CN/careers/SearchJobsChina",
   "title": "职位搜索 | Lenovo",
-  "hash": "1dabe85e526821bb8e00b2e3a54ee8ff5f4d592d7424d7cd946229b733b9a427",
+  "hash": "794d7c88bc18944d714effa475d1f1afa4ac934da318ed01976b34805d9ed878",
   "candidate_urls": [
+    "https://jobs.lenovo.com/zh_CN/careers/JobDetail/Parent-Evergreen/84423",
+    "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2FParent-Evergreen%2F84423",
     "https://jobs.lenovo.com/zh_CN/careers/JobDetail/84330",
     "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2F84330",
     "https://talent.lenovo.com.cn/",
-    "https://jobs.lenovo.com/zh_CN/careers/JobDetail/84343",
-    "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2F84343",
-    "https://jobs.lenovo.com/zh_CN/careers/JobDetail/84239"
+    "https://jobs.lenovo.com/zh_CN/careers/JobDetail/84343"
   ],
   "first_seen_by_url": {
     "https://talent.lenovo.com.cn/": "2026-09-15",
@@ -87,6 +87,8 @@
     "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2F84330": "2026-11-24",
     "https://jobs.lenovo.com/zh_CN/careers/JobDetail/84343": "2026-11-24",
     "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2F84343": "2026-11-24",
-    "https://jobs.lenovo.com/zh_CN/careers/JobDetail/84239": "2026-11-24"
+    "https://jobs.lenovo.com/zh_CN/careers/JobDetail/84239": "2026-11-24",
+    "https://jobs.lenovo.com/zh_CN/careers/JobDetail/Parent-Evergreen/84423": "2026-11-25",
+    "https://jobs.lenovo.com/_linkedinApiv2?portalUrl=https%3A%2F%2Fjobs.lenovo.com%2F&action=INIT_SHARE&shareUrl=https%3A%2F%2Fjobs.lenovo.com%2Fzh_CN%2Fcareers%2FJobDetail%2FParent-Evergreen%2F84423": "2026-11-25"
   }
 }
