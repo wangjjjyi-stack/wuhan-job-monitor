@@ -1,14 +1,9 @@
 {
-  "checked_at": "2026-11-28T14:52:45+08:00",
+  "checked_at": "2026-11-29T03:41:25+08:00",
   "final_url": "https://www.dfmc.com.cn/zhaopin/zhaopin.html",
-  "title": "东风汽车集团有限公司-集团总部人才招聘",
-  "hash": "db91fb60aa1f6bd4995f0c4f5e4682961162e6ca20cde03d800030f1b67be939",
-  "candidate_urls": [
-    "https://www.dfmc.com.cn/zhaopin/xiaoyuanzhaopin.html",
-    "https://www.dfmc.com.cn/zhaopin/haiwaizhaopin.html",
-    "https://app.mokahr.com/social-recruitment/dfmc/168368",
-    "https://www.dfmc.com.cn/show/show.html"
-  ],
+  "title": "404 Not Found",
+  "hash": "822944f726d584083a21fc609539bf688d55797d49b55b47776810489baf01a0",
+  "candidate_urls": [],
   "first_seen_by_url": {
     "https://www.dfmc.com.cn/zhaopin/xiaoyuanzhaopin.html": "2026-09-15",
     "https://www.dfmc.com.cn/zhaopin/haiwaizhaopin.html": "2026-09-15",
